@@ -1,0 +1,82 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>Write Your First Novel</name>
+        <htmlFile>1.WriteYourFirstNovel</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Write a Plot Summary</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Wikipedia:How_to_write_a_plot_summary</htmlFile>
+    </item>
+    <item>
+        <name>From Manuscript To Novel</name>
+        <htmlFile>2.FromManuscriptToNovel</htmlFile>
+    </item>
+
+    <item>
+        <name>Fiction Writing</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Fiction_writing</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>Getting A Novel Published</name>
+        <htmlFile>3.GettingANovelPublished</htmlFile>
+    </item>
+
+    <item>
+        <name>Write the Great American Novel</name>
+        <htmlFile>4.WritetheGreatAmericanNovel</htmlFile>
+    </item>
+
+    <item>
+        <name>Write A Novel Out Of Your Dream</name>
+        <htmlFile>5.WriteANovelOutOfYourDream</htmlFile>
+    </item>
+
+    <item>
+        <name>How A City Can Be A Character In Your Novel</name>
+        <htmlFile>6.ACity</htmlFile>
+    </item>
+
+    <item>
+        <name>Ghostwriting Novels</name>
+        <htmlFile>7.GhostwritingNovels</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>The Novel That Only You Can Write</name>
+        <htmlFile>8.TheNovelThatOnly</htmlFile>
+    </item>
+
+    <item>
+        <name>Resources To End Writers Block</name>
+        <htmlFile>9.ResourcesToEndWritersBlock</htmlFile>
+    </item>
+
+    <item>
+        <name>Get Past Writers Block</name>
+        <htmlFile>10.GetPastWritersBlock</htmlFile>
+    </item>
+
+    <item>
+        <name>Fiction Outline</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Outline_of_fiction</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+ <item>
+    <name>Free Creative Writing Magazine</name>
+    <htmlFile>http://epeqe.com/WAs/CWriting/index.html</htmlFile>
+</item>
+</items>
+
+<item>
+        <name>How To Write a Book - Download App</name>
+        <htmlFile>https://play.google.com/store/apps/details?id=howto.write.a.book</htmlFile>
+</item>

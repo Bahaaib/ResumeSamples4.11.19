@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "355317513241",
+    "firebase_url": "https://marketing-a-guerilla-guide.firebaseio.com",
+    "project_id": "marketing-a-guerilla-guide",
+    "storage_bucket": "marketing-a-guerilla-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355317513241:android:4c3ad34d62180714",
+        "android_client_info": {
+          "package_name": "guerilla.marketing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355317513241-ln3rfqckdo02miu9p0cgbbpkhr8gff6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkjnYrSBYYf7_70gBdiAFh9U4TLkJ4jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355317513241-ln3rfqckdo02miu9p0cgbbpkhr8gff6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8052068685884381~4479870831"
+    }
+  ],
+  "configuration_version": "1"
+}

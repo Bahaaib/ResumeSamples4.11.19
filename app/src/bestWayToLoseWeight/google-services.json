@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "568723922343",
+    "firebase_url": "https://best-way-to-lose-weight.firebaseio.com",
+    "project_id": "best-way-to-lose-weight",
+    "storage_bucket": "best-way-to-lose-weight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568723922343:android:f4ba6170b2ed2ddd",
+        "android_client_info": {
+          "package_name": "best.waytolose.weight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568723922343-dp63utvgbfo8r05di5an7od24ru0i2bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2BlY41P4Dlokh16TvufoWMFwvshDuIcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "347942829635",
+    "firebase_url": "https://cv-examples-twenty-nineteen.firebaseio.com",
+    "project_id": "cv-examples-twenty-nineteen",
+    "storage_bucket": "cv-examples-twenty-nineteen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347942829635:android:f3f0363f0d145360",
+        "android_client_info": {
+          "package_name": "cv.examples.resumes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347942829635-0ek97fv7vjgenvsol07k6o6ll07t144s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "347942829635-0ek97fv7vjgenvsol07k6o6ll07t144s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3wKPH78KcoROMJSiGMx0VAzvh22rJwOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

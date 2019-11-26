@@ -1,0 +1,88 @@
+<items>
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>usingtheappMaker</htmlFile>
+    </item>
+
+    <item>
+        <name>Resume Maker Instructions</name>
+        <htmlFile>resumeMakerInstructions</htmlFile>
+    </item>
+
+    <item>
+        <name>Resume Maker</name>
+        <htmlFile>https://resume-creator.epeqe.com/</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>How To Stand Out In The Jobs Crowd</name>
+        <htmlFile>1.HowToStandOutInTheJobsMarket</htmlFile>
+    </item>
+
+    <item>
+        <name>Avoiding Resume Writing Disaster</name>
+        <htmlFile>2.AvoidingResumeWritingDisaster</htmlFile>
+    </item>
+
+    <item>
+        <name>The 40 Most Common Job Interview Questions</name>
+        <htmlFile>3.40JobQuestions</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Organise Your Job Search</name>
+        <htmlFile>4.OrganiseJobSearch</htmlFile>
+    </item>
+
+    <item>
+        <name>Job Hunting Tips</name>
+        <htmlFile>6.JobHuntingTips</htmlFile>
+    </item>
+
+
+    <item>
+        <name>Job Hunting Tips 2</name>
+        <htmlFile>7.JobHuntingTips2</htmlFile>
+    </item>
+
+    <item>
+        <name>Common Job Interview Questions</name>
+        <htmlFile>8.CommonJobInterviewQuestions</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Before And After Your Job Interview</name>
+        <htmlFile>9.BeforeAndAfter</htmlFile>
+    </item>
+
+    <item>
+        <name>Career Planning</name>
+        <htmlFile>10.CareerPlanning</htmlFile>
+    </item>
+
+
+    <item>
+        <name>10 Career Change Myths</name>
+        <htmlFile>5.10CareerChangeMyths</htmlFile>
+    </item>
+
+    <item>
+        <name>Download Resume Templates</name>
+        <htmlFile>DownloadTemplates</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+
+    <item>
+        <name>What features would you like to see in this app?</name>
+        <htmlFile>https://docs.google.com/forms/d/e/1FAIpQLSeOZM02DPOMJDHj_84wSLV8JU1uAPn9wXBM1_Er6chnEN1WbA/viewform?usp=sf_link</htmlFile>
+    </item>
+
+
+
+
+
+</items>

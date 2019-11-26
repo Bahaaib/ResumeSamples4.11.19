@@ -1,0 +1,58 @@
+<items>
+
+
+    <item>
+        <name>How to Write a Film Script</name>
+        <htmlFile>1.HowtoWriteaFilmScript</htmlFile>
+    </item>
+
+    <item>
+        <name>How To Become A TV Script Writer</name>
+        <htmlFile>2.HowToBecomeATVScriptWriter</htmlFile>
+    </item>
+
+    <item>
+        <name>How To Make A Movie</name>
+        <htmlFile>3.HowToMakeAMovie</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>How To Write A Screenplay</name>
+        <htmlFile>4.HowToWritAScreenplay</htmlFile>
+    </item>
+
+    <item>
+        <name>How To Write A Script</name>
+        <htmlFile>5.HowToWriteAScript</htmlFile>
+    </item>
+
+    <item>
+        <name>Screenwriting</name>
+        <htmlFile>6.Screenwriting</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>Horror Movie Scripts</name>
+        <htmlFile>7.HorrorMovieScripts</htmlFile>
+    </item>
+
+    <item>
+        <name>Average Length of Feature Film Scripts</name>
+        <htmlFile>8.AverageLengthofFeatureFilmScripts</htmlFile>
+    </item>
+
+    <item>
+        <name>Write Yourself or Find a Writer?</name>
+        <htmlFile>9.WriteYourselforFindaWriter</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>Free Creative Writing Magazine</name>
+        <htmlFile>http://epeqe.com/WAs/CWriting/index.html
+</htmlFile>
+    </item>
+
+
+
+
+</items>

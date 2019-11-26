@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283341755124",
+    "firebase_url": "https://nys-unclaimed-money-as.firebaseio.com",
+    "project_id": "nys-unclaimed-money-as",
+    "storage_bucket": "nys-unclaimed-money-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283341755124:android:b1789f651c86c27c",
+        "android_client_info": {
+          "package_name": "nys.unclaimed.money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283341755124-7eqs6u9ln49er6qba8vibhlcdv860uvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASPCZA349fF1tSMEC7Sx5yB82WFKGTnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

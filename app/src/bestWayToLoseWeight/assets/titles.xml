@@ -1,0 +1,77 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+<item>
+        <name>8 Mistakes I Made While Trying To Lose Weight</name>
+        <htmlFile>10.8Mistakes</htmlFile>
+    </item>
+
+    <item>
+        <name>54 Ways To Lose Weight</name>
+        <htmlFile>9.54waystoloseweight</htmlFile>
+    </item>
+
+    <item>
+        <name>Best Way To Lose Weight</name>
+        <htmlFile>1BestWayToLoseWeight</htmlFile>
+    </item>
+
+    <item>
+        <name>Lose Weight Naturally</name>
+        <htmlFile>2LoseWeightNaturally</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Find Your Best Way To Lose Weight</name>
+        <htmlFile>3BestWayToLoseWeight</htmlFile>
+    </item>
+
+    <item>
+        <name>Learn Powerful Weight Loss Strategies</name>
+        <htmlFile>4WeightLossStrategies</htmlFile>
+    </item>
+
+    <item>
+        <name>Look Your Best</name>
+        <htmlFile>5LookYourBest</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Quickest Way To Lose Weight</name>
+        <htmlFile>6QuickestWayToLoseWeight</htmlFile>
+    </item>
+
+    <item>
+        <name>Really Simple Tips For Your Weight Loss</name>
+        <htmlFile>7ReallySimpleTips</htmlFile>
+    </item>
+
+    <item>
+        <name>Lose Your Weight And Keep It Off</name>
+        <htmlFile>8BestWay</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+
+<item>
+        <name>BMI Calculator</name>
+        <htmlFile>BMICalculator</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>Exercise Calorie Counter</name>
+        <htmlFile>CalorieCounter</htmlFile>
+    </item>
+    <item>
+        <name>Free Weight Loss Magazine</name>
+        <htmlFile>http://epeqe.com/WAs/wlapps1/index.html
+</htmlFile>
+    </item>
+
+
+</items>

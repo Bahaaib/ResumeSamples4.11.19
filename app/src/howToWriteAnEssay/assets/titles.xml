@@ -1,0 +1,58 @@
+
+<items>
+        <item>
+        <name>Make Time To Write Your Essays</name>
+        <htmlFile>1.MakeTimeToWriteYourEssays</htmlFile>
+    </item>
+    <item>
+        <name>How to Write Essays More Efficiently</name>
+        <htmlFile>2.HowtoWriteEssaysMoreEfficiently</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>Avoid Crafty Traps in Essay Writing</name>
+        <htmlFile>3.AvoidCraftyTrapsinEssayWriting</htmlFile>
+    </item>
+    <item>
+        <name>10 Steps For an Excellent Essay</name>
+        <htmlFile>4.10StepsTowardsWritinganExcellentEssay</htmlFile>
+    </item>
+    <item>
+        <name>Using Stories to Support Your Thesis</name>
+        <htmlFile>5.WritingEssaysUsingStories</htmlFile>
+    </item>
+    <item>
+        <name>Using Topic Sentences to Entice Readers</name>
+        <htmlFile>6.WritingEssaysUsingTopicSentences</htmlFile>
+    </item>
+    <item>
+        <name>Write Distinction Essays Every Time</name>
+        <htmlFile>7.HowtoWriteDistinctionEssays</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Writing University Essays</name>
+        <htmlFile>9.WritingUniversityEssays</htmlFile>
+    </item>
+    <item>
+        <name>Writing A Critical Essay</name>
+        <htmlFile>10.critical</htmlFile>
+    </item>
+    <item>
+        <name>Writing A Scholarship Essay</name>
+        <htmlFile>11WritingAScholarshipEssay</htmlFile>
+    </item>
+    <item>
+        <name>Why Does the Essay Word Count Worry Students</name>
+        <htmlFile>12.WhyDoestheEssayWordCount</htmlFile>
+
+    </item>
+<item>
+        <name>Homework Essays</name>
+        <htmlFile>8.HomeworkEssays</htmlFile>
+    <interstitial>true</interstitial>
+    </item>
+
+
+</items>

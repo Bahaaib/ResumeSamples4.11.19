@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "158573386525",
+    "firebase_url": "https://cure-a-hangover.firebaseio.com",
+    "project_id": "cure-a-hangover",
+    "storage_bucket": "cure-a-hangover.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158573386525:android:a9b37f5989127381",
+        "android_client_info": {
+          "package_name": "cure.a.hangover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158573386525-msghaukpm96lh129ckio9t348jrphdm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vqAJc18pNqxQa0JCx7QqpRgM5ZOD_Uc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

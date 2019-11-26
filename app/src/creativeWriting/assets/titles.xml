@@ -1,0 +1,55 @@
+<items>
+    <item>
+        <name>Creative writing course</name>
+        <htmlFile>1.CreativeWritingCourse</htmlFile>
+            </item>
+    <item>
+        <name>The art of creative writing</name>
+        <htmlFile>11.CreativeWriting</htmlFile>
+
+    </item>
+    <item>
+        <name>How to write a book</name>
+        <htmlFile>2.HowToWriteABook</htmlFile>
+            </item>
+    <item>
+        <name>Writing a book</name>
+        <htmlFile>3.WritingaBook</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>Write children's books</name>
+        <htmlFile>4.HowToWritePromote</htmlFile>
+    </item>
+    <item>
+        <name>Writing skills</name>
+        <htmlFile>5.WritingSkills</htmlFile>
+    </item>
+    <item>
+        <name>Applying NPL</name>
+        <htmlFile>6.ApplyingNeuro</htmlFile>
+    </item>
+    <item>
+        <name>Content or passion</name>
+        <htmlFile>7.Content</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>How to write well</name>
+        <htmlFile>8.HowToWriteWell</htmlFile>
+    </item>
+    <item>
+        <name>Is writing a skill?</name>
+        <htmlFile>9.IsWritingaSkill</htmlFile>
+    </item>
+    <item>
+        <name>Long live the love poem</name>
+        <htmlFile>10.LongLiveTheLovePoem</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+    <item>
+    <name>Free Creative Writing Magazine</name>
+    <htmlFile>http://epeqe.com/WAs/CWriting/index.html</htmlFile>
+</item>
+
+</items>

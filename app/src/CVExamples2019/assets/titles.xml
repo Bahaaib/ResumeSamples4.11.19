@@ -1,0 +1,83 @@
+<items>
+
+        <item>
+        <name>How To Use This App</name>
+        <htmlFile>usingtheappMaker</htmlFile>
+    </item>
+
+    <item>
+        <name>CV Builder Instructions</name>
+        <htmlFile>resumeMakerInstructions</htmlFile>
+    </item>
+
+
+    <item>
+        <name>CV Builder</name>
+        <htmlFile>https://resume-creator.epeqe.com/</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+
+    <item>
+        <name>The importance of a professional CV</name>
+        <htmlFile>1.Intro</htmlFile>
+    </item>
+    <item>
+        <name>References on your CV</name>
+        <htmlFile>2.IncludingReferencesOnYourResume</htmlFile>
+    </item>
+    <item>
+        <name>How to format CV headings</name>
+        <htmlFile>3.HowToFormatResumeHeadings</htmlFile>
+           </item>
+    <item>
+        <name>No work experience?</name>
+        <htmlFile>4.LackingWorkExperience</htmlFile>
+         <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>CV samples</name>
+        <htmlFile>5.CV Samples</htmlFile>
+    </item>
+    <item>
+        <name>A professional summary for your CV</name>
+        <htmlFile>6.ProfessionalSummary</htmlFile>
+           </item>
+    <item>
+        <name>Customise your CV</name>
+        <htmlFile>7.THREEEFFECTIVEWAYSTOCUSTOMIZEYOURRESUME</htmlFile>
+         <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>The cover letter or job application letter</name>
+        <htmlFile>8.AvoidingMajorMistakes</htmlFile>
+    </item>
+    <item>
+        <name>Avoid common cover letter mistakes</name>
+        <htmlFile>9.The5CommonCoverLetterMistakes</htmlFile>
+    </item>
+    <item>
+        <name>Make your CV unique</name>
+        <htmlFile>10.HowToMakeYourResumeUnique</htmlFile>
+           </item>
+
+
+    <item>
+        <name>What features would you like to see in this app?</name>
+        <htmlFile>https://docs.google.com/forms/d/e/1FAIpQLSd4IN8MgwDusi2e8N0mWShYrWxkXXGjEVyU-fp4NwItwVeKuw/viewform?usp=sf_link</htmlFile>
+    </item>
+
+
+</items>
+
+
+
+
+
+
+
+
+
+
+
+

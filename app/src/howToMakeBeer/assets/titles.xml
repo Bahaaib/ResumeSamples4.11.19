@@ -1,0 +1,87 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>Step By Step Guide To Making Beer</name>
+        <htmlFile>2.BrewandBrew</htmlFile>
+    </item>
+
+    <item>
+        <name>Fermentation Temperatures</name>
+        <htmlFile>3.FermentationTemperatures</htmlFile>
+    </item>
+
+    <item>
+        <name>Getting Set Up to Make Beer</name>
+        <htmlFile>4.GettingSetUptoMakeBeer</htmlFile>
+    </item>
+
+    <item>
+        <name>Making Your Beer Crystal Clear</name>
+        <htmlFile>5.MakingYourBeerCrystalClear</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>The Budget Brewmeister</name>
+        <htmlFile>6.TheBudgetBrewmeister</htmlFile>
+    </item>
+
+    <item>
+        <name>Using a Good Beer Making Kit</name>
+        <htmlFile>7.UsingaGoodBeerMakingKit</htmlFile>
+    </item>
+
+    <item>
+        <name>The Heart of a Brewmeister</name>
+        <htmlFile>8.TheHeartofaBrewmeister</htmlFile>
+    </item>
+
+    <item>
+        <name>What Beer Making Gurus Know</name>
+        <htmlFile>9.WhatBeerMakingGurusKnow</htmlFile>
+    </item>
+
+    <item>
+        <name>The Fast Track Way to Making Beer at Home</name>
+        <htmlFile>10.TheFastTrackWaytoMakingBeeratHome </htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Going to the Source to Learn Home Brewing</name>
+        <htmlFile>11.GoingtotheSource</htmlFile>
+    </item>
+
+    <item>
+        <name>Great Home Made Beer</name>
+        <htmlFile>12.GreatHomeMadeBeer</htmlFile>
+    </item>
+
+    <item>
+        <name>Looking Before You Leap into Home Brewing</name>
+        <htmlFile>13.LookingBefore</htmlFile>
+    </item>
+
+    <item>
+        <name>Types Of Beer</name>
+        <htmlFile>14.TypesOfBeer</htmlFile>
+    </item>
+
+    <item>
+        <name>The Malt of Beer</name>
+        <htmlFile>15.TheMaltofBeer</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Free Classic Book - Beer Brewing</name>
+        <htmlFile>16.FreeBookBeerBrewing</htmlFile>
+    </item>
+
+
+</items>

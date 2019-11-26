@@ -1,0 +1,128 @@
+
+<items>
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name> 19 "Fat Burning" Foods</name>
+        <htmlFile>1.19FatBurningFoods</htmlFile>
+    </item>
+
+    <item>
+        <name>Improving Your Eating Habits</name>
+        <htmlFile>https://www.cdc.gov/healthyweight/losing_weight/eating_habits.html</htmlFile>
+    </item>
+
+    <item>
+        <name>Eat More, Weigh Less</name>
+        <htmlFile>https://www.cdc.gov/healthyweight/healthy_eating/energy_density.html</htmlFile>
+    </item>
+
+    <item>
+        <name>Lose Weight With Fruit and Veg</name>
+        <htmlFile>https://www.cdc.gov/healthyweight/healthy_eating/fruits_vegetables.html</htmlFile>
+    </item>
+
+
+
+
+<item>
+        <name>Take Care About Diet Claims</name>
+        <htmlFile>2a.diet_claims</htmlFile>
+    </item>
+
+    <item>
+        <name>25 Healthy Foods</name>
+        <htmlFile>2.25HealthyFoods</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Foods That May Improve Health And Wellness</name>
+        <htmlFile>3.FoodsThatMay</htmlFile>
+    </item>
+
+    <item>
+        <name>Juicing Healthy Foods</name>
+        <htmlFile>3.JuicingHealthyFoods</htmlFile>
+    </item>
+
+    <item>
+        <name>The Power Of Healthy Foods</name>
+        <htmlFile>4.ThePowerOfHealthyFoods</htmlFile>
+    </item>
+
+    <item>
+        <name>Can You Eat Smoothies When Trying To Lose Weight?</name>
+        <htmlFile>5.CanYouEatSmoothies</htmlFile>
+    </item>
+
+    <item>
+        <name>Foods That Fight Health Problems</name>
+        <htmlFile>6.FoodsThatFight</htmlFile>
+    </item>
+
+    <item>
+        <name>50 - Healthy Diet Essentials</name>
+        <htmlFile>7.50HealthyDietEssentials</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Add High Fiber Fruit To A Healthy Diet</name>
+        <htmlFile>8.AddHighFiber</htmlFile>
+    </item>
+
+    <item>
+        <name>Change Your Lifestyle To Lose Weight For Good</name>
+        <htmlFile>9.ChangeYourLifestyle</htmlFile>
+    </item>
+
+    <item>
+        <name>Effective Weight Loss Advice That Works</name>
+        <htmlFile>10.EffectiveWeightLoss</htmlFile>
+    </item>
+
+    <item>
+        <name>Lose Weight Effectively</name>
+        <htmlFile>11.LoseWeightEffectively</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Choose My Plate</name>
+        <htmlFile>https://www.choosemyplate.gov/MyPlate-Daily-Checklist-input</htmlFile>
+    </item>
+
+    <item>
+        <name>Ten Most Frequently Asked Questions About Weight Loss</name>
+        <htmlFile>12.TenMostFrequently</htmlFile>
+    </item>
+
+    <item>
+        <name>BMI Calculator</name>
+        <htmlFile>14.BMICalculator</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Exercise Calorie Counter</name>
+        <htmlFile>15.CalorieCounter</htmlFile>
+    </item>
+
+    <item>
+        <name>Free Weight Loss Magazine</name>
+        <htmlFile>http://epeqe.com/WAs/wlapps1/index.html</htmlFile>
+    </item>
+
+    <item>
+        <name>Updates</name>
+        <htmlFile>updates</htmlFile>
+    </item>
+
+
+
+
+</items>

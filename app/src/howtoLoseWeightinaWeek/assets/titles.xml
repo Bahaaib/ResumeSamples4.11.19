@@ -1,0 +1,91 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisAppDISCLAIMER</htmlFile>
+    </item>
+
+<item>
+        <name>8 Weight Loss Mistakes To Avoid</name>
+        <htmlFile>10.8WeightLossMistakes</htmlFile>
+    </item>
+
+    <item>
+        <name>Quick Weight Loss</name>
+        <htmlFile>11.QuickWeightLoss</htmlFile>
+    </item>
+
+    <item>
+        <name>Fast Weight Loss Diet Plan</name>
+        <htmlFile>12.FastWeightLossDiet</htmlFile>
+    </item>
+
+    <item>
+        <name>Healthy Weight Loss Made Fast and Easy</name>
+        <htmlFile>13.HealthyWeightLossMadeFastandEasy</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+
+    <item>
+        <name>Program Your Weight Loss in a Week</name>
+        <htmlFile>1.ProgramyourWeightLossinasEasyasaweek</htmlFile>
+    </item>
+
+    <item>
+        <name>Fast And Easy Weight Loss Tips And Tricks</name>
+        <htmlFile>2.FastAndEasyWeightLossTipsAndTricks</htmlFile>
+    </item>
+
+    <item>
+        <name>Improve Your Figure Each Week </name>
+        <htmlFile>3.ImproveYourFigure</htmlFile>
+    </item>
+
+    <item>
+        <name>54 Tips for Losing Weight</name>
+        <htmlFile>4.54TipsforLosingWeight</htmlFile>
+    </item>
+
+    <item>
+        <name>Natural Methods For Fast Weight Loss</name>
+        <htmlFile>5.NaturalMethodsForFastWeightLoss</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>Quick And Easy Weight Loss</name>
+        <htmlFile>6.QuickAndEasyWeightLoss</htmlFile>
+    </item>
+
+    <item>
+        <name>Safe Tips For Seeing Fast Weight Loss</name>
+        <htmlFile>7.SafeTipsForSeeingFastWeightLoss</htmlFile>
+    </item>
+
+    <item>
+        <name>The Best Rapid Weight Loss Techniques</name>
+        <htmlFile>8.TheBestRapidWeightLossTechniques</htmlFile>
+    </item>
+
+    <item>
+        <name>Low Fat Recipes</name>
+        <htmlFile>9.lowfatrecipes</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+
+       <item>
+        <name>Free Weight Loss Magazine</name>
+        <htmlFile>http://epeqe.com/WAs/wlapps1/index.html</htmlFile>
+    </item>
+
+<item>
+        <name>BMI Calculator</name>
+        <htmlFile>BMICalculator</htmlFile>
+<interstitial>true</interstitial>    </item>
+    <item>
+        <name>Exercise Calorie Counter</name>
+        <htmlFile>CalorieCounter</htmlFile>
+    </item>
+
+</items>
+
+

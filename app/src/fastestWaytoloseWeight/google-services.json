@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "506901123641",
+    "firebase_url": "https://fastest-way-to-lose-weight-as.firebaseio.com",
+    "project_id": "fastest-way-to-lose-weight-as",
+    "storage_bucket": "fastest-way-to-lose-weight-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506901123641:android:6cdf9220d980e6c3",
+        "android_client_info": {
+          "package_name": "fastest.waytolose.weight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506901123641-49tf3gdrvd9g52u1fqa3qjsbcl1usgtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJxs7tOFjMAgzJU-TDmkBMLdGWZJOR8xw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

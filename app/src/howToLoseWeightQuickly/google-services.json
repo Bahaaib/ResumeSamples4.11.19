@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "411451289440",
+    "firebase_url": "https://how-to-lose-weight-quickly-as.firebaseio.com",
+    "project_id": "how-to-lose-weight-quickly-as",
+    "storage_bucket": "how-to-lose-weight-quickly-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411451289440:android:5e742cf96c70d211",
+        "android_client_info": {
+          "package_name": "com.v1_4.B48D883F0BB3BB5F1891E24C.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411451289440-ds0jl5k5822jja8vvtetkdn0o8fpjdvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3zxgV0lq7USaLROTPG0ETlLpc8bmiCXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

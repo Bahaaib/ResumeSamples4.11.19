@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919826264563",
+    "firebase_url": "https://fat-burning-foods-as.firebaseio.com",
+    "project_id": "fat-burning-foods-as",
+    "storage_bucket": "fat-burning-foods-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919826264563:android:216bf692b1444e2f",
+        "android_client_info": {
+          "package_name": "com.v1_4.B3730F78E64B1E6E479864C7.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919826264563-2q6gasdhl62gcbtuq51rftnp0aujp7r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1sdcDfTGRtute2XNJyRliYWLGta5KcEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

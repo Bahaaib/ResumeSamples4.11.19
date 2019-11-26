@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "609475556074",
+    "firebase_url": "https://how-to-lose-weight-fast-androd.firebaseio.com",
+    "project_id": "how-to-lose-weight-fast-androd",
+    "storage_bucket": "how-to-lose-weight-fast-androd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609475556074:android:ca8f2f364ca7b598",
+        "android_client_info": {
+          "package_name": "com.v1_4.B200622148587FCB3C2BED12.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609475556074-r4n9meputedefn9l5hqegqs3rt3rb6fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOE1k-5hgQE0Zzfl1hbeqFdGS3eRBe6ww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,69 @@
+<items>
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>Three Fat Burning Strategies</name>
+        <htmlFile>1.3FatBurningStrategies</htmlFile>
+    </item>
+
+    <item>
+        <name>7 Tips on How to Lose Weight Fast</name>
+        <htmlFile>2.TipsonHowtoLoseWeightFast</htmlFile>
+    </item>
+
+    <item>
+        <name>7 Essential Tips You Must Know</name>
+        <htmlFile>3.7EssentialTipsYouMustKnow</htmlFile>
+    </item>
+
+    <item>
+        <name>7 More Tips on How to Lose Weight Fast</name>
+        <htmlFile>4.7TipsonLoseeightFast</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>14 Things You Can Do to Lose Weight Quickly</name>
+        <htmlFile>5.14ThingsYouCanDotoLoseWeightQuickly</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Lose Weight Fast at Any Age</name>
+        <htmlFile>6.AnyAge</htmlFile>
+    </item>
+
+    <item>
+        <name>Lose Weight The Healthy Way</name>
+        <htmlFile>7.BestFoods</htmlFile>
+    </item>
+
+    <item>
+        <name>Lose Weight Fast and Enjoy Life</name>
+        <htmlFile>8.EnjoyLife</htmlFile>
+    </item>
+
+    <item>
+        <name>Lose Weight Fast Now</name>
+        <htmlFile>9.FastNow</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>How to Lose Weight Really Fast</name>
+        <htmlFile>20.ReallyFast</htmlFile>
+    </item>
+
+
+<item>
+        <name>BMI Calculator</name>
+        <htmlFile>BMICalculator</htmlFile>
+<interstitial>true</interstitial>    </item>
+    <item>
+        <name>Exercise Calorie Counter</name>
+        <htmlFile>CalorieCounter</htmlFile>
+    </item>
+    <item>
+        <name>Free Weight Loss Magazine</name>
+        <htmlFile>http://epeqe.com/WAs/wlapps1/index.html</htmlFile>
+    </item>

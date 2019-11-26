@@ -1,0 +1,71 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>Build Wealth the Right Way</name>
+        <htmlFile>2.BuildWealththeRightWay</htmlFile>
+    </item>
+
+    <item>
+        <name>The Automatic Wealth Building Habit</name>
+        <htmlFile>3.Automatic</htmlFile>
+    </item>
+
+    <item>
+        <name>Wealth Building</name>
+        <htmlFile>4.Wealth Building</htmlFile>
+    </item>
+
+    <item>
+        <name>Building Wealth Through Joint Ventures</name>
+        <htmlFile>5.JointVentures</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Surefire Ways To Make Money Online</name>
+        <htmlFile>6.SurefireWays</htmlFile>
+    </item>
+
+    <item>
+        <name>5 Unbreakable Laws</name>
+        <htmlFile>7.5UnbreakableLaws</htmlFile>
+    </item>
+
+    <item>
+        <name>7 Ways To Make Money Online</name>
+        <htmlFile>8.7Ways</htmlFile>
+    </item>
+
+    <item>
+        <name>Memberships To Make You Money</name>
+        <htmlFile>9.Memberships</htmlFile>
+    </item>
+
+    <item>
+        <name>How To Create Passive Income</name>
+        <htmlFile>10.PassiveIncome</htmlFile>
+    </item>
+
+    <item>
+        <name>What features would you like to see in this app?</name>
+        <htmlFile>https://docs.google.com/forms/d/e/1FAIpQLSd4IN8MgwDusi2e8N0mWShYrWxkXXGjEVyU-fp4NwItwVeKuw/viewform?usp=sf_link</htmlFile>
+    </item>
+
+
+
+</items>
+
+
+
+
+
+
+
+
+
+

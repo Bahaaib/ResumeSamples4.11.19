@@ -1,0 +1,18 @@
+<resources>
+
+
+    <string name="alert_use_cookies">This app uses cookies. You are agree to their use by continuing to use this app. Full details in our Legal section.</string>
+
+    <string name="privacy_policy">Privacy Policy &amp; Legal</string>
+    <string name="privacy_policy_url">https://epeqe.com/Disclaimer.html</string>
+    <string name="contact_developer">Contact Developer</string>
+    <string name="contact_developer_url">https://epeqe.com/contactventuretechnologyltd.html</string>
+    <string name="more_apps">More Free Apps!</string>
+    <string name="more_apps_url">https://epeqe.com/masterlinkscreen.html</string>
+    <string name="features">Features</string>
+    <string name="features_url">features link here</string>
+
+    <string name="app_title">COVER LETTER \nAPP</string>
+    <string name="splash_text">All what you need in one place</string>
+
+</resources>

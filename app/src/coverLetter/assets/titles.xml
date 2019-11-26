@@ -1,0 +1,83 @@
+<items>
+
+
+    <item>
+        <name>PDF For Testing</name>
+        <htmlFile>CompleteGuideToLandingYourDreamJob</htmlFile>
+    </item>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>CoverLetterUseApp</htmlFile>
+    </item>
+
+    <item>
+        <name>What is a Resume or CV (curriculum vitae)?</name>
+        <htmlFile>1WhatisaResumeorCV</htmlFile>
+    </item>
+
+    <item>
+        <name>Things to Keep in Mind</name>
+        <htmlFile>2ThingstoKeepinMind</htmlFile>
+    </item>
+
+    <item>
+        <name>Parts of the Resume</name>
+        <htmlFile>3PartsoftheResume</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>References</name>
+        <htmlFile>4References</htmlFile>
+    </item>
+
+    <item>
+        <name>Purpose</name>
+        <htmlFile>5TheCoverLetter</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Making Sure You're Ready</name>
+        <htmlFile>6MakingSureYouReady</htmlFile>
+    </item>
+
+    <item>
+        <name>Cover Letter Layouts</name>
+        <htmlFile>8SampleCoverLetters</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Reference Sheets</name>
+        <htmlFile>9SampleReferenceSheets</htmlFile>
+    </item>
+
+    <item>
+        <name>Conclusion</name>
+        <htmlFile>10Conclusion</htmlFile>
+    </item>
+
+
+    <item>
+        <name>Cover Letter Builder</name>
+        <htmlFile>https://clt.epeqe.com/</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Download Cover Letter Templates</name>
+        <htmlFile>DownloadTemplatesCoverLetters</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>What features would you like to see in this app?</name>
+        <htmlFile>
+            https://docs.google.com/forms/d/e/1FAIpQLSd4IN8MgwDusi2e8N0mWShYrWxkXXGjEVyU-fp4NwItwVeKuw/viewform?usp=sf_link
+        </htmlFile>
+    </item>
+
+</items>
+

@@ -1,0 +1,82 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>Graduate Scholarships For Women</name>
+        <htmlFile>2.GraduateScholarshipsForWomen</htmlFile>
+    </item>
+
+    <item>
+        <name>Get Yourself a College Scholarship Quickly</name>
+        <htmlFile>3.TipstoHelp</htmlFile>
+    </item>
+
+    <item>
+        <name>Find And Apply For Scholarships For Women</name>
+        <htmlFile>4.FindAndApply</htmlFile>
+    </item>
+
+    <item>
+        <name>Tips For Forty And Over To Go To College</name>
+        <htmlFile>5.TipsForForty</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Scholarship For Single Parents</name>
+        <htmlFile>6.SingleParents</htmlFile>
+    </item>
+
+    <item>
+        <name>Institutional Scholarships</name>
+        <htmlFile>7.InstitutionalScholarships</htmlFile>
+    </item>
+
+    <item>
+        <name>Scholarships Database</name>
+        <htmlFile>http://bit.ly/2nnRUne</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Scholarships Information</name>
+        <htmlFile>http://bit.ly/2DMiQmV</htmlFile>
+    </item>
+
+    <item>
+        <name>All You Need To Know About College Grants</name>
+        <htmlFile>10.AllYou</htmlFile>
+    </item>
+
+    <item>
+        <name>Scholarship Grants or Financial Aid?</name>
+        <htmlFile>File</htmlFile>
+    </item>
+
+    <item>
+        <name>Free College - Complete Book</name>
+        <htmlFile>12.FreeCollege</htmlFile>
+
+    </item>
+
+    <item>
+        <name>Online Degrees Guide</name>
+        <htmlFile>13.OnlineDegreesGuide</htmlFile>
+    </item>
+
+    <item>
+        <name>Student Loan Repayment Methods</name>
+        <htmlFile>File</htmlFile>
+    </item>
+
+    <item>
+        <name>Grants vs Scholarships</name>
+        <htmlFile>15.GrantsvsScholarships</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+</items>

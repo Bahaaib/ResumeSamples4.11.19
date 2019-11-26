@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "119185926751",
+    "firebase_url": "https://how-to-remove-dandruff.firebaseio.com",
+    "project_id": "how-to-remove-dandruff",
+    "storage_bucket": "how-to-remove-dandruff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119185926751:android:cc89674cecbcac69",
+        "android_client_info": {
+          "package_name": "how.to.remove.dandruff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119185926751-sc99p021cii9frqac4dl06bh7obj70s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf0RFbMcivM7_vrrHVVOunNnX138WgZDY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

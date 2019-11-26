@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "117958410980",
+    "firebase_url": "https://texas-unclaimed-property.firebaseio.com",
+    "project_id": "texas-unclaimed-property",
+    "storage_bucket": "texas-unclaimed-property.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117958410980:android:5a30763d7ff87a43",
+        "android_client_info": {
+          "package_name": "texas.unclaimed.property"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117958410980-j2anh6gvvlq23aeqb6udibk9tmosanlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdnzSvRTEEOXhH5cnWaUPwYVT99kiLYhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

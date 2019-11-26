@@ -1,0 +1,91 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Write Compelling Articles</name>
+        <htmlFile>2.HowtoWriteCompellingArticles</htmlFile>
+    </item>
+
+    <item>
+        <name>20 Ways to Brainstorm Article Ideas</name>
+        <htmlFile>3.20ways</htmlFile>
+    </item>
+
+    <item>
+        <name>Writing News Articles</name>
+        <htmlFile>4.WritingNewsArticles</htmlFile>
+    </item>
+
+    <item>
+        <name>5 Article Title Templates</name>
+        <htmlFile>5.5ArticleTitleTemplates</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Article Writing 101</name>
+        <htmlFile>6.ArticleWriting101</htmlFile>
+    </item>
+
+    <item>
+        <name>Article Writing</name>
+        <htmlFile>7.ArticleWriting</htmlFile>
+    </item>
+
+    <item>
+        <name>Writing The Article</name>
+        <htmlFile>8.WritingTheArticle</htmlFile>
+    </item>
+
+    <item>
+        <name>Article Writing – Why Bother?</name>
+        <htmlFile>9.ArticleWritingWhyBother</htmlFile>
+    </item>
+
+    <item>
+        <name>What is Article Marketing?</name>
+        <htmlFile>10.WhatisArticleMarketing</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>7 Surefire-Tips For Writing “Make-People-Read” Article</name>
+        <htmlFile>11.7SurefireTips</htmlFile>
+    </item>
+
+    <item>
+        <name>Article Writing Format</name>
+        <htmlFile>12.ArticleWritingFormat</htmlFile>
+    </item>
+
+    <item>
+        <name>Great Article Writing Tips</name>
+        <htmlFile>13.GreatArticleWritingTips</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Find Ideas for Articles</name>
+        <htmlFile>14.HowtoFindIdeasforArticles</htmlFile>
+    </item>
+
+    <item>
+        <name>Article Idea Generators</name>
+        <htmlFile>15.ArticleIdeaGenerators</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>What features would you like to see in this app?</name>
+        <htmlFile>https://docs.google.com/forms/d/e/1FAIpQLSf8t-_7GrH8LaFWd4gwwD8pg1rJDjCWg9_CBJzdKSUSvXL6Wg/viewform?usp=sf_link</htmlFile>
+    </item>
+
+
+
+</items>
+
+
+

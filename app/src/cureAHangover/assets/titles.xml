@@ -1,0 +1,72 @@
+<items>
+
+<item>
+    <name>How To Use This App</name>
+    <htmlFile>1.HowToUseThisAppDISCLAIMER</htmlFile>
+</item>
+
+<item>
+<name>Hangover Cures and Prevention</name>
+<htmlFile>2.HangoverCuresandPrevention</htmlFile>
+</item>
+
+<item>
+<name>Treating Your Hangover</name>
+<htmlFile>3.TreatingYourHangover</htmlFile>
+</item>
+
+<item>
+<name>Natural Remedies for Hangovers</name>
+<htmlFile>4.NaturalRemediesforHangovers</htmlFile>
+</item>
+
+<item>
+<name>Effective Headache Remedies</name>
+<htmlFile>5.EffectiveHeadacheRemedies</htmlFile>
+<interstitial>true</interstitial>
+</item>
+
+<item>
+<name>Natural Ways To Relieve A Headache</name>
+<htmlFile>6.NaturalWaysToRelieveAHeadache</htmlFile>
+</item>
+
+<item>
+<name>4 Easy Ways To Relief Headache</name>
+<htmlFile>7.4EasyWaysToReliefHeadache</htmlFile>
+</item>
+
+<item>
+<name>7 Tips To Get Rid Of A Wine Hangover</name>
+<htmlFile>8.7Tips</htmlFile>
+</item>
+
+<item>
+<name>Dealing With Hangovers</name>
+<htmlFile>9.DealingWithHangovers</htmlFile>
+</item>
+
+<item>
+<name>Hangover Helpers</name>
+<htmlFile>10.HangoverHelpers</htmlFile>
+</item>
+
+
+<item>
+<name>All About Hangovers</name>
+<htmlFile>https://en.m.wikipedia.org/wiki/Hangover#Possible_remedies</htmlFile>
+    <interstitial>true</interstitial>
+</item>
+
+
+
+
+
+
+
+</items>
+
+
+
+
+

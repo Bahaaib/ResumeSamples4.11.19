@@ -1,0 +1,102 @@
+<items>
+
+    <item>
+        <name>Introduction</name>
+        <htmlFile>introDash</htmlFile>
+    </item>
+    <item>
+        <name>What Is the DASH Eating Plan?</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/DASH_diet</htmlFile>
+    </item>
+    <item>
+        <name>All About The DASH Diet</name>
+        <htmlFile>https://www.nhlbi.nih.gov/health/health-topics/topics/dash</htmlFile>
+    </item>
+    <item>
+        <name>Dash Recipes</name>
+        <htmlFile>Dashrecipes</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>Good Tips For Safe, Healthy Weight Loss</name>
+        <htmlFile>2.GoodTipsForSafeHealthyWeightLoss</htmlFile>
+    </item>
+    <item>
+        <name>Safe Tips For Seeing Fast Weight Loss</name>
+        <htmlFile>3.SafeTipsForSeeingFastWeightLoss</htmlFile>
+    </item>
+    <item>
+        <name>Proven Advice For Safe And Effective Weight Loss</name>
+        <htmlFile>4.ProvenAdviceForSafeAndEffectiveWeightLoss</htmlFile>
+    </item>
+    <item>
+        <name>Tips To Implement For Weight Loss</name>
+        <htmlFile>5.TipsToImplementForWeightLoss</htmlFile>
+    </item>
+    <item>
+        <name>Swimming Your Way To A More Fit You</name>
+        <htmlFile>6.SwimmingYourWayToAMoreFitYou</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>Exercise - An Effective Way To Lose Weight</name>
+        <htmlFile>7.Exercise - An Effective Way To Lose Weight</htmlFile>
+    </item>
+    <item>
+        <name>Beginners Guide To Healthy Nutritional Eating</name>
+        <htmlFile>8.BeginnersGuideToHealthyNutritionalEating</htmlFile>
+    </item>
+    <item>
+        <name>Tips To Help You Eat A Healthier Diet</name>
+        <htmlFile>10.TipsToHelpYouEatAHealthierDiet</htmlFile>
+    </item>
+    <item>
+        <name>Information You Need To Know About Nutrition</name>
+        <htmlFile>11.InformationYouNeedToKnowAboutNutrition</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>Achieving Health And Fitness Through Healthy Diet</name>
+        <htmlFile>12.AchievingHealthAndFitnessThroughHealthyDiet</htmlFile>
+    </item>
+    <item>
+        <name>Maintaining A Healthy Physique Requires Physical Exercise</name>
+        <htmlFile>13.MaintainingAHealthyPhysiqueRequiresPhysicalExercise</htmlFile>
+    </item>
+    <item>
+        <name>Exercise And Nutrition </name>
+        <htmlFile>14.StayHealthyWithExerciseAndTheseHelpfulNutritionTips</htmlFile>
+    </item>
+    <item>
+        <name>Low Fat Recipes</name>
+        <htmlFile>15.LowFatRecipes</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>Food Tracker</name>
+        <htmlFile>https://mnew.supertracker.usda.gov/</htmlFile>
+    </item>
+    <item>
+        <name>Calorie Counter</name>
+        <htmlFile>CalorieCounter</htmlFile>
+    </item>
+    <item>
+        <name>Free Magazine Issue </name>
+        <htmlFile>http://epeqe.com/WAs/wlapps1/index.html</htmlFile>
+    </item>
+
+    <item>
+    <name>Disclaimer</name>
+    <htmlFile>http://epeqe.com/Disclaimer.html</htmlFile>
+</item>
+<item>
+
+
+
+
+
+
+
+
+
+</items>

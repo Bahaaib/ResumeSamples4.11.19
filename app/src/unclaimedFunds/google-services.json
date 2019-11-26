@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "639939494127",
+    "firebase_url": "https://unclaimed-funds.firebaseio.com",
+    "project_id": "unclaimed-funds",
+    "storage_bucket": "unclaimed-funds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639939494127:android:769d1e5667e6c3f7",
+        "android_client_info": {
+          "package_name": "unclaimed.funds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639939494127-ijjurm2uu621hsec4pv4aek1ar2diiaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKadLcmzUfsAyp-QXMUw_lTOxtcDWXwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

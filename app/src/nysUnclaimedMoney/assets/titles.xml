@@ -1,0 +1,95 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>Billions Still Held in New York's Unclaimed Money Vault</name>
+        <htmlFile>3.BillionsStillHeld</htmlFile>
+    </item>
+
+    <item>
+        <name>Connecting With Your Unclaimed Money</name>
+        <htmlFile>2.ConnectingWith</htmlFile>
+    </item>
+
+    <item>
+        <name>10 Tips on How to Locate Unclaimed Money</name>
+        <htmlFile>8.10Tips</htmlFile>
+    </item>
+
+    <item>
+        <name>Important Information When Looking For Unclaimed Property</name>
+        <htmlFile>2.7Things</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Searching For Your NYC Unclaimed Property</name>
+        <htmlFile>4.SearchingForYourNYCUnclaimedProperty</htmlFile>
+    </item>
+
+    <item>
+        <name>Getting A Tax Refund</name>
+        <htmlFile>5.IRS</htmlFile>
+    </item>
+
+    <item>
+        <name>Finding Property and Money That You Are Owed</name>
+        <htmlFile>6.FindingMoneyThatYouAreOwed</htmlFile>
+    </item>
+
+    <item>
+        <name>Important Information About Finding Lost Money</name>
+        <htmlFile>7.ImportantInformation</htmlFile>
+
+    </item>
+
+    <item>
+        <name>Best Methods For Locating Lost Assets in NYC</name>
+        <htmlFile>11.SearchingPublicecordsinNYC</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Search NYC State Database</name>
+        <htmlFile>http://www.osc.state.ny.us/ouf/</htmlFile>
+    </item>
+
+    <item>
+        <name>Search Unclaimed Funds USA Database</name>
+        <htmlFile>https://www.usa.gov/unclaimed-money</htmlFile>
+
+    </item>
+
+    <item>
+        <name>Search Unclaimed Funds USA Database 2</name>
+        <htmlFile>http://www.missingmoney.com</htmlFile>
+    </item>
+
+
+    <item>
+        <name>Unclaimed Property Legalaties </name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Lost,_mislaid,_and_abandoned_property</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Word Mix Up Game</name>
+        <htmlFile>WordMixUpGame</htmlFile>
+    </item>
+
+
+
+    <item>
+        <name>PDF Test</name>
+        <htmlFile>bcl_2129024801</htmlFile>
+    </item>
+
+
+</items>
+
+
+

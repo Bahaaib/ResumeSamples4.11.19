@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "597179580372",
+    "firebase_url": "https://how-to-make-beer.firebaseio.com",
+    "project_id": "how-to-make-beer",
+    "storage_bucket": "how-to-make-beer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597179580372:android:8355cb351c26e317",
+        "android_client_info": {
+          "package_name": "howto.make.beer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597179580372-4g42rrl0usqe66jmlkm896lreapntcf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQd05SRpVTV7ok23hazxDHaYZjUCqw0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

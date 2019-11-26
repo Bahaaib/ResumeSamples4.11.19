@@ -1,0 +1,86 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+<item>
+        <name>Planning The Perfect Wedding Ceremony</name>
+        <htmlFile>1A</htmlFile>
+    </item>
+
+    <item>
+        <name>Wedding Planner Book </name>
+        <htmlFile>1</htmlFile>
+    </item>
+
+ <item>
+        <name>Pre-Planning Phase</name>
+        <htmlFile>2</htmlFile>
+    </item>
+
+
+
+    <item>
+        <name>Get Organized</name>
+        <htmlFile>3</htmlFile>
+    </item>
+
+    <item>
+        <name>Wedding Attire</name>
+        <htmlFile>4</htmlFile>
+    </item>
+
+    <item>
+        <name>The Wedding Cake</name>
+        <htmlFile>5</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>Planning The Reception</name>
+        <htmlFile>6</htmlFile>
+    </item>
+
+    <item>
+        <name>The Reception Dinner</name>
+        <htmlFile>7</htmlFile>
+    </item>
+
+    <item>
+        <name>Planning Catering for Your Wedding</name>
+        <htmlFile>8</htmlFile>
+    </item>
+
+    <item>
+        <name>Wedding Flowers</name>
+        <htmlFile>9</htmlFile>
+    </item>
+
+    <item>
+        <name>Wedding  Invitations</name>
+        <htmlFile>10</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>The Wedding Music</name>
+        <htmlFile>11</htmlFile>
+    </item>
+
+    <item>
+        <name>Photography And Videography</name>
+        <htmlFile>12</htmlFile>
+    </item>
+
+    <item>
+        <name>Planning The Honeymoon</name>
+        <htmlFile>13</htmlFile>
+    </item>
+
+    <item>
+        <name>Resource: Your Wedding Planning To - Do List</name>
+<interstitial>true</interstitial>        <htmlFile>15</htmlFile>
+    </item>
+
+
+</items>

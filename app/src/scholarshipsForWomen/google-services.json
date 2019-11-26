@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "740661159824",
+    "firebase_url": "https://scholarships-for-women.firebaseio.com",
+    "project_id": "scholarships-for-women",
+    "storage_bucket": "scholarships-for-women.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740661159824:android:439e0e48dc61cf13",
+        "android_client_info": {
+          "package_name": "scholarships.for.women"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740661159824-b2tf65i35prgmfpistrp04vpnlv9s1v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe6kwDYiYojjhrcoy08d6B5Tp_c1h4SD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

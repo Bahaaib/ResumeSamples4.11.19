@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1009457955945",
+    "firebase_url": "https://how-to-write-a-book-as.firebaseio.com",
+    "project_id": "how-to-write-a-book-as",
+    "storage_bucket": "how-to-write-a-book-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009457955945:android:ff7165cf5a2be533",
+        "android_client_info": {
+          "package_name": "howto.write.a.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009457955945-c1vek319gp6p6iguejb4flo7636n2jem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEzuiwfIS1dZ_OPyUTBueSjPDN1uZEVMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

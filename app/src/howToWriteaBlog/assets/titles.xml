@@ -1,0 +1,87 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>How To Create A Blog</name>
+        <htmlFile>2.HowToCreateABlog</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Create a Blog in 10 Easy Steps</name>
+        <htmlFile>3.HowtoCreateaBlog</htmlFile>
+    </item>
+
+    <item>
+        <name>You Must Read These 51 Explanations Before Starting a Blog</name>
+        <htmlFile>4.YouMustRead</htmlFile>
+    </item>
+
+    <item>
+        <name>7 Secrets to a Successful Business Blog</name>
+        <htmlFile>5.7Secrets</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>How To Make Your Blog Appealing</name>
+        <htmlFile>6.HowToMakeYourBlogAppealing</htmlFile>
+    </item>
+
+    <item>
+        <name>How To Blog</name>
+        <htmlFile>7.HowToBlog</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Plan Your Blog</name>
+        <htmlFile>8.HowtoPlanYourBlog</htmlFile>
+    </item>
+
+    <item>
+        <name>Selling Your Blog: How to Find Blog Advertisers</name>
+        <htmlFile>9.SellingYourBlog</htmlFile>
+    </item>
+
+    <item>
+        <name>Eliminate Wordpress Blog Comment Spam</name>
+        <htmlFile>10.Eliminate</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Spice Up A Boring Blog</name>
+        <htmlFile>11.SpiceUpABoringBlog</htmlFile>
+    </item>
+
+    <item>
+        <name>Blog Marketing Miracles</name>
+        <htmlFile>12.BlogMarketingMiracles</htmlFile>
+    </item>
+
+    <item>
+        <name>Understanding Blogging</name>
+        <htmlFile>13.UnderstandingBlogging</htmlFile>
+    </item>
+
+    <item>
+        <name>Best Blogging Software</name>
+        <htmlFile>14.BestBloggingSoftware</htmlFile>
+    </item>
+
+    <item>
+        <name>Beginners Guide to Blogging</name>
+        <htmlFile>15.BeginnersGuidetoBlogging</htmlFile>
+    </item>
+
+    <item>
+        <name>Careers in Blogging</name>
+        <htmlFile>16.CareersinBlogging</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+
+</items>

@@ -1,0 +1,61 @@
+<items>
+<item>
+        <name>Teeth Whitening Details</name>
+        <htmlFile>12.TeethWhiteningDetails</htmlFile>
+    </item>
+
+    <item>
+        <name>Top 9 Teeth Whitening Myths </name>
+        <htmlFile>2.Top9Teeth</htmlFile>
+    </item>
+
+    <item>
+        <name>Secrets About Teeth Whitening</name>
+        <htmlFile>4.HowToGetWhiteTeethNaturally</htmlFile>
+    </item>
+
+    <item>
+        <name>Mistakes People Commonly Make</name>
+        <htmlFile>5.TeethWhiteningMistakes</htmlFile>
+
+    </item>
+<item>
+        <name>Teeth Whitening Facts You Should Know</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Tooth_whitening</htmlFile>
+    </item>
+    <item>
+        <name>Teeth Whitening Strips</name>
+        <htmlFile>6.TeethWhiteningStrips</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Home Whitening System</name>
+        <htmlFile>7.TheQuest</htmlFile>
+   </item>
+
+    <item>
+        <name>Common Teeth Whitening Procedures</name>
+        <htmlFile>8.CommonTeeth</htmlFile>
+    </item>
+
+    <item>
+        <name>Concerns On Teeth Whitening Procedures</name>
+        <htmlFile>9.Concerns</htmlFile>
+    </item>
+
+    <item>
+        <name>Popular Teeth Whitening Treatments</name>
+        <htmlFile>10.Popular</htmlFile>
+</item>
+
+    <item>
+        <name>Taking Care Of Sensitive Teeth</name>
+        <htmlFile>11.TakingCare</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+
+
+
+
+</items>

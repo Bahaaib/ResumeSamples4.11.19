@@ -1,0 +1,93 @@
+
+<items>
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+    <item>
+        <name>How to Lose Weight Fast - 7 Essential Tips You Must Know</name>
+        <htmlFile>2.HowtoLoseWeightFast7EssentialTips</htmlFile>
+    </item>
+    <item>
+        <name>Quick Weight Loss - Do You Know the One Step Your Missing That's Sabotaging Your Quick Weight Loss?</name>
+        <htmlFile>3.QuickWeightLoss</htmlFile>
+    </item>
+    <item>
+        <name>Healthy Weight Loss Made Fast and Easy</name>
+        <htmlFile>4.HealthyWeightLoss</htmlFile>
+    </item>
+    <item>
+        <name>Fast Weight Loss Diet Plan</name>
+        <htmlFile>5.FastWeightLossDiet</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Free Weight Loss Book</name>
+        <htmlFile>http://epeqe.com/Testimonial/Testimonial.html</htmlFile>
+    </item>
+
+
+    <item>
+        <name>Rapid Weight Loss With Intermittent Fasting</name>
+        <htmlFile>6.HowCanILoseAStone</htmlFile>
+    </item>
+    <item>
+        <name>5 Best Diets</name>
+        <htmlFile>7.5BestDietstoLoseWeight</htmlFile>
+    </item>
+    <item>
+        <name>Not Losing Weight - Top 10 Reasons</name>
+        <htmlFile>8.LosingWeight</htmlFile>
+    </item>
+    <item>
+        <name>Best Possible Way to Lose Weight</name>
+        <htmlFile>9.TheBestPossibleWay</htmlFile>
+    </item>
+    <item>
+        <name>The Only Dieting Guide You'll Ever Need </name>
+        <htmlFile>10.TheOnlyDietingGuideYou'll</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>Want to Lose 15 Pounds Fast?</name>
+        <htmlFile>11.Lose15Pounds</htmlFile>
+    </item>
+    <item>
+        <name>Learn How To Lose Weight Successfully Today</name>
+        <htmlFile>12.StartLosingWeight</htmlFile>
+    </item>
+    <item>
+        <name>Healthy Weight Loss Made Fast and Easy</name>
+        <htmlFile>13.HealthyWeightLossMadeFastandEasy</htmlFile>
+    </item>
+    <item>
+        <name>54 Ways To Lose Weight</name>
+        <htmlFile>14.54WaysToLoseWeight</htmlFile>
+    </item>
+    <item>
+        <name>Healthy Weight Loss Recipes</name>
+        <htmlFile>15.HealthyWeightLossRecipes</htmlFile>
+    </item>
+    <interstitial>true</interstitial>
+    <item>
+        <name>Weight Loss Healthy Low Calorie Recipes</name>
+        <htmlFile>16.HealthyLowCalorieRecipes</htmlFile>
+    </item>
+    <item>
+        <name>Cabbage Soup Diet</name>
+        <htmlFile>17.CabbageSoupDiet</htmlFile>
+    </item>
+    <item>
+        <name>Calorie Counter</name>
+        <htmlFile>CalorieCounter</htmlFile>
+    </item>
+                <item>
+        <name>Updates</name>
+        <htmlFile>updates</htmlFile>
+    </item>
+
+
+
+
+</items>

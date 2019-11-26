@@ -1,0 +1,82 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisAppDISCLAIMER</htmlFile>
+    </item>
+
+    <item>
+        <name>6 Extremely Easy Tips to Lose Weight Quickly</name>
+        <htmlFile>2.6ExtremelyEasy</htmlFile>
+    </item>
+
+    <item>
+        <name>10 Practical Tips to Help You Lose Weight</name>
+        <htmlFile>3.10PracticalTips</htmlFile>
+    </item>
+
+    <item>
+        <name>10 Easy to follow Tips to help YOU Lose Weight</name>
+        <htmlFile>4.10 EasytofollowTips</htmlFile>
+    </item>
+
+    <item>
+        <name>Lose Weight With A Pocketful Of Advice</name>
+        <htmlFile>5.LoseWeight</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Beginners Guide To Healthy Nutritional Eating</name>
+        <htmlFile>6.BeginnersGuide</htmlFile>
+    </item>
+
+    <item>
+        <name>Helpful Tips to Lose Weight and Step on the Scales with Confidence!</name>
+        <htmlFile>7.HelpfulTips</htmlFile>
+    </item>
+
+    <item>
+        <name>Understanding your Metabolism</name>
+        <htmlFile>8.Understanding</htmlFile>
+    </item>
+
+    <item>
+        <name>Your Weight Loss Would Be Effortless If You Had These 3 Habits</name>
+        <htmlFile>9.Your</htmlFile>
+    </item>
+
+    <item>
+        <name>Top 10 Fitness Mistakes</name>
+        <htmlFile>10.Top10</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Advice For Getting Fit And Staying Fit</name>
+        <htmlFile>11.Advice</htmlFile>
+    </item>
+
+    <item>
+        <name>Healthy Eating Shopping List</name>
+        <htmlFile>12.HealthyEatingShopping</htmlFile>
+    </item>
+
+
+    <item>
+        <name>Body Mass Index Calculator</name>
+        <htmlFile>13BMI</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Calorie Counter</name>
+        <htmlFile>16.CalorieCounter</htmlFile>
+    </item>
+
+
+
+
+
+
+</items>

@@ -1,0 +1,77 @@
+<items>
+
+
+
+    <item>
+        <name>Introduction</name>
+        <htmlFile>1.chapter1</htmlFile>
+    </item>
+
+    <item>
+        <name>Weight Loss Eating Plan</name>
+        <htmlFile>2.chapter2</htmlFile>
+    </item>
+
+    <item>
+        <name>Meal Plans For Weight Loss</name>
+        <htmlFile>3.chapter3</htmlFile>
+    </item>
+
+    <item>
+        <name>Quick Healthy Recipes</name>
+        <htmlFile>4.chapter4</htmlFile>
+    </item>
+
+    <item>
+        <name>More Quick Healthy Recipes</name>
+        <htmlFile>5.chapter5</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Healthy Dinner Recipes</name>
+        <htmlFile>6.HealthyDinnerRecipes</htmlFile>
+    </item>
+
+    <item>
+        <name>Slow Cooker Recipes for Low-Fat Dieters</name>
+        <htmlFile>7.SlowCookerRecipes</htmlFile>
+    </item>
+
+    <item>
+        <name>Low Fat Recipes</name>
+        <htmlFile>8.GreatLowFatRecipes</htmlFile>
+    </item>
+
+    <item>
+        <name>More Low Fat Recipes</name>
+        <htmlFile>9.LowFatRecipes</htmlFile>
+    </item>
+
+    <item>
+        <name>Tips To Help You Eat A Healthier Diet</name>
+        <htmlFile>10.TipsToHelpYouEatAHealthierDiet</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+
+          <item>
+        <name>BMI Calculator</name>
+        <htmlFile>14.BMICalculator</htmlFile>
+    </item>
+
+    <item>
+        <name>Exercise Calorie Counter</name>
+        <htmlFile>15.CalorieCounter</htmlFile>
+<interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Free Weight Loss Magazine</name>
+        <htmlFile>http://epeqe.com/WAs/wlapps1/index.html</htmlFile>
+    </item>
+
+
+
+
+
+</items>

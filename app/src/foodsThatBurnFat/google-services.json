@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "964210766425",
+    "firebase_url": "https://foods-that-burn-fat-as.firebaseio.com",
+    "project_id": "foods-that-burn-fat-as",
+    "storage_bucket": "foods-that-burn-fat-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964210766425:android:ceb6294e2b1eedc1",
+        "android_client_info": {
+          "package_name": "foodsthatburn.fat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964210766425-dvl4omotnm47hklkiii4h84aimg7d8fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkuZ_YeVSgsK0qbO8E9CzjA2Kgyn4s8ZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

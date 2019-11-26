@@ -1,0 +1,16 @@
+<items>
+    <item>
+        <name>question1</name>
+        <htmlFile>question1</htmlFile>
+    </item>
+    <item>
+        <name>question2</name>
+        <htmlFile>question2</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+    <item>
+        <name>question3</name>
+        <htmlFile>question3</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+</items>

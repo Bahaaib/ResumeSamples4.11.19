@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "280082850399",
+    "firebase_url": "https://teeth-whitening-as.firebaseio.com",
+    "project_id": "teeth-whitening-as",
+    "storage_bucket": "teeth-whitening-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280082850399:android:98637fcc47448393",
+        "android_client_info": {
+          "package_name": "com.v1_4.B3CD4E28FDA4E17FF8AD05C9.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280082850399-jc8c45rfd39dmu3ockqdqh2ahafes1mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzkwzaoVQ1FP7qVQFt8vtrwPYoExkGzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

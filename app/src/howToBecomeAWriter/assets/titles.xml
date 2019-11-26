@@ -1,0 +1,74 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+        <item>
+        <name>How To Become A Writer</name>
+        <htmlFile>1a.HowToBecomeAWriter</htmlFile>
+    </item>
+
+    <item>
+        <name>Writing Stories</name>
+        <htmlFile>2.WritingStories</htmlFile>
+    </item>
+
+    <item>
+        <name>Five Ways to Wake up the Creative Writer in You</name>
+        <htmlFile>3.FiveWays</htmlFile>
+    </item>
+
+    <item>
+        <name>Five Reasons To Stay A Writer</name>
+        <htmlFile>4.FiveReasonsToStayAWriter</htmlFile>
+    </item>
+
+    <item>
+        <name>Be An Independent Writer</name>
+        <htmlFile>5.BeAnIndependentWriter</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>Freelance Business Writer</name>
+        <htmlFile>6.FreelanceBusinessWriter</htmlFile>
+    </item>
+
+    <item>
+        <name>The Organized Writer's Six Rules</name>
+        <htmlFile>7.TheOrganizedWritersSixRules</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>24 Ways To Fail As A Freelance Writer</name>
+        <htmlFile>8.24Ways</htmlFile>
+    </item>
+
+    <item>
+        <name>The Phases Of The Writer’s Life</name>
+        <htmlFile>9.ThePhases</htmlFile>
+    </item>
+    <item>
+        <name>From Writer To Author</name>
+        <htmlFile>1.FromWriter</htmlFile>
+    </item>
+    <item>
+        <name>All About Writing</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Writer</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+<item>
+    <name>Free Creative Writing Magazine</name>
+    <htmlFile>http://epeqe.com/WAs/CWriting/index.html</htmlFile>
+</item>
+
+    <item>
+        <name>How To Write a Book - Download App</name>
+        <htmlFile>https://play.google.com/store/apps/details?id=howto.write.a.book</htmlFile>
+</item>
+
+
+
+
+</items>

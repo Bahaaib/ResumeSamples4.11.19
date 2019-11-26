@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "376789617789",
+    "firebase_url": "https://how-to-write-a-report-as.firebaseio.com",
+    "project_id": "how-to-write-a-report-as",
+    "storage_bucket": "how-to-write-a-report-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376789617789:android:da65ebfc00681ba0",
+        "android_client_info": {
+          "package_name": "how.to.write.a.report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376789617789-ra05ejubp8n02pvhvnacolsd60fmt489.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXizk664DiqQuRDZe-E9_OQee5cFIXSf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

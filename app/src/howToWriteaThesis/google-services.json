@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8610649058",
+    "firebase_url": "https://how-to-write-a-thesis-as.firebaseio.com",
+    "project_id": "how-to-write-a-thesis-as",
+    "storage_bucket": "how-to-write-a-thesis-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8610649058:android:e91440ab23295cf9",
+        "android_client_info": {
+          "package_name": "how.to.write.a.thesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8610649058-93ojesl7neikoa8tc52qr3hfiouhdm3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEG2TIKWXVJFpbdfyJC6yw2RJZQkPE7wY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

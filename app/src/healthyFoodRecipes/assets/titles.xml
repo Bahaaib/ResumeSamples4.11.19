@@ -1,0 +1,26 @@
+<items>
+    <item>
+        <name>Introduction</name>
+        <htmlFile>1Introduction</htmlFile>
+    </item>
+    <item>
+        <name>Why do I gain weight</name>
+        <htmlFile>2WhyDoIGainWeight</htmlFile>
+    </item>
+    <item>
+        <name>What do I do now</name>
+        <htmlFile>3WhatDoIDoNow</htmlFile>
+    </item>
+    <item>
+        <name>Healthy nutrition</name>
+        <htmlFile>4HealthyNutritionAndItsBenefits</htmlFile>
+    </item>
+    <item>
+        <name>Importance of exercise</name>
+        <htmlFile>5TheImportanceOfExercise</htmlFile>
+    </item>
+    <item>
+        <name>Living healthy</name>
+        <htmlFile>6LivingTheHealthyLifestyle</htmlFile>
+    </item>
+</items>

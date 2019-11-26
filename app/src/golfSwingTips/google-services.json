@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1025744216185",
+    "firebase_url": "https://golf-swing-tips-as.firebaseio.com",
+    "project_id": "golf-swing-tips-as",
+    "storage_bucket": "golf-swing-tips-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025744216185:android:cdd70dfa9825c994",
+        "android_client_info": {
+          "package_name": "com.v1_4.BF3F211299454988C4EF1A5C.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025744216185-1sah7049n2m1m27knuqmvggc2f1d544b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMilWLMR8bjW_nt202RGe_DNwtU-pm5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

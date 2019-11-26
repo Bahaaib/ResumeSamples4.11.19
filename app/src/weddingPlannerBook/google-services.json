@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "703184287101",
+    "firebase_url": "https://wedding-planner-book-as.firebaseio.com",
+    "project_id": "wedding-planner-book-as",
+    "storage_bucket": "wedding-planner-book-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703184287101:android:7e14691169c7a8a9",
+        "android_client_info": {
+          "package_name": "wedding.planner.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703184287101-lmplk26g18k52lkavga51945irjh2aub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPQvxqqdvpcoIH-tJ9X4TR4XPpK9z_iI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

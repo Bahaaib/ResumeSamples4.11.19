@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "709110528381",
+    "firebase_url": "https://how-to-write-a-journal-as.firebaseio.com",
+    "project_id": "how-to-write-a-journal-as",
+    "storage_bucket": "how-to-write-a-journal-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709110528381:android:54dc33a2c13d7f65",
+        "android_client_info": {
+          "package_name": "howto.writea.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709110528381-ghibtcrn449fgmb2t86uk1ji40bpghf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzd0ETZrK6VixE703m4bFRf8VORrB_PQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-8052068685884381~9601390871"
+    }
+  ],
+  "configuration_version": "1"
+}

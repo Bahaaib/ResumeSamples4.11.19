@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "129218916232",
+    "firebase_url": "https://wealth-building-as.firebaseio.com",
+    "project_id": "wealth-building-as",
+    "storage_bucket": "wealth-building-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129218916232:android:df27cbbc94f1b650",
+        "android_client_info": {
+          "package_name": "wealth.building"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129218916232-am9o5870n29kpj7vmpvrr6cnfmk7i1p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuqnBCC6-oN-dHm-bCq_WsooF-yubfV1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129218916232-am9o5870n29kpj7vmpvrr6cnfmk7i1p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8052068685884381~5737789171"
+    }
+  ],
+  "configuration_version": "1"
+}

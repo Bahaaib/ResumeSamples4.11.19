@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "904230203917",
+    "firebase_url": "https://job-cover-letter-fe135.firebaseio.com",
+    "project_id": "job-cover-letter-fe135",
+    "storage_bucket": "job-cover-letter-fe135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904230203917:android:a926c2a528a1d4e6",
+        "android_client_info": {
+          "package_name": "job.cover.letter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904230203917-31njol9qp2esi514q76o7ahasinn9bgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JVOrJG7U6mFBrjVoIRUIPm96M-y4uOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-8052068685884381~3440115700"
+    }
+  ],
+  "configuration_version": "1"
+}

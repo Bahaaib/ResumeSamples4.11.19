@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "34916336293",
+    "firebase_url": "https://unclaimed-property-california.firebaseio.com",
+    "project_id": "unclaimed-property-california",
+    "storage_bucket": "unclaimed-property-california.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34916336293:android:cbf3c6a9055e83a2",
+        "android_client_info": {
+          "package_name": "unclaimed.property.california"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34916336293-o5uco1ikc5qodmgo4c06a3ncn9rcf6e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOouRKsS56ygbwdylGJZA-3i4t3-xznA4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

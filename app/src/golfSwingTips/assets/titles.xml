@@ -1,0 +1,82 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>A Few Free Golf Swing Tips </name>
+        <htmlFile>1.AFewFree</htmlFile>
+    </item>
+
+    <item>
+        <name>Improve Your Golf Swing In 30 Minutes</name>
+        <htmlFile>2.ImproveYourGolf</htmlFile>
+    </item>
+
+    <item>
+        <name>Swing Improvement Tips To Achieve Consistency</name>
+        <htmlFile>3.GolfSwingImprovement</htmlFile>
+    </item>
+
+    <item>
+        <name>Swing Plane Faults That You Can Fix Fast</name>
+        <htmlFile>4.GolfTipsSwing</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>5 Basic Golf Swing Tips To Fine Tune Your Game</name>
+        <htmlFile>5.BasicGolfSwingTips</htmlFile>
+    </item>
+
+    <item>
+        <name>A Free Golf Swing Tip</name>
+        <htmlFile>6.AFreeGolfSwingTip</htmlFile>
+    </item>
+
+    <item>
+        <name>The Most Important Tip to Improve Your Golf Swing</name>
+        <htmlFile>7.GolfSwingTipsTheMostImportantTip</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Fix Your Slice</name>
+        <htmlFile>8.GolfSwingTipsOnline</htmlFile>
+    </item>
+
+    <item>
+        <name>Improve Your Mechanics</name>
+        <htmlFile>9.GolfSwingTipstoImproveYourGolfGame</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>Must Know Golf Swing Tips</name>
+        <htmlFile>10.TheMustKnow</htmlFile>
+    </item>
+
+    <item>
+        <name>Want To Play Like A Pro?</name>
+        <htmlFile>11.GolfSwingTips</htmlFile>
+    </item>
+
+    <item>
+        <name>Great Golf Swing Methods</name>
+        <htmlFile>12.BestGolfSwingTips</htmlFile>
+    </item>
+
+    <item>
+        <name>3 Golf Swing Tips For Instant Results</name>
+        <htmlFile>13.GolfSwingTipsForInstantResults</htmlFile>
+    </item>
+
+    <item>
+        <name>Lower Your Score By Using These 5 Putting Tips</name>
+        <htmlFile>14.LowerYourScoreByUsing</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+
+
+
+
+</items>

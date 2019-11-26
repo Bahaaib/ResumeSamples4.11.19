@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="80dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/cover_letter_logo"/>
+
+    <com.lukedeighton.wheelview.WheelView
+        android:id="@+id/wheelview"
+        android:layout_width="wrap_content"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        app:wheelColor="#ffcdd2"
+        app:rotatableWheelDrawable="false"
+        app:selectionAngle="90.0"
+        app:wheelPosition="bottom"
+        app:wheelOffsetY="60dp"
+        app:repeatItems="true"
+        app:wheelRadius="276dp"
+        app:wheelItemCount="14"
+        app:wheelPadding="13dp"
+        app:wheelItemRadius="43dp"/>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/circle_shape"/>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:text="@string/app_title"
+        android:textAlignment="center"
+        android:fontFamily="sans-serif-light"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="10dp"
+        android:textSize="20sp"
+        android:layout_marginTop="30dp" />
+
+</RelativeLayout>

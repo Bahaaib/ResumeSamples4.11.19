@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "544970560430",
+    "firebase_url": "https://how-to-lose-weight-in-a-week.firebaseio.com",
+    "project_id": "how-to-lose-weight-in-a-week",
+    "storage_bucket": "how-to-lose-weight-in-a-week.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544970560430:android:1a56566847ae6b81",
+        "android_client_info": {
+          "package_name": "how.to.loseweightinaweek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544970560430-8daqhs4esbug6ci5r3ikjgk1g3r6ipkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByy4ahhPdR8i8qyse57ZWBULEaVNpGaSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

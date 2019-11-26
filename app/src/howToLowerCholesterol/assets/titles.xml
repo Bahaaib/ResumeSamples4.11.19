@@ -1,0 +1,80 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisAppDISCLAIMER</htmlFile>
+    </item>
+
+    <item>
+        <name>10 Easy Tips To Eat Your Way To Lower Cholesterol This Month</name>
+        <htmlFile>1.10EasyTips</htmlFile>
+    </item>
+
+    <item>
+        <name>Check Your Health, Learn About Cholesterol</name>
+        <htmlFile>2.Checkyourhealth</htmlFile>
+    </item>
+
+    <item>
+        <name>Find Out More About Statin Drugs</name>
+        <htmlFile>3.FindoutmoreaboutStatinDrugs</htmlFile>
+    </item>
+
+    <item>
+        <name>Getting Low Cholesterol Advice</name>
+        <htmlFile>4.GettingLowCholesterolAdvice</htmlFile>
+    </item>
+
+    <item>
+        <name>Reducing Cholesterol the Natural Way</name>
+        <htmlFile>6.ReducingCholesterol</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>Tips On Lowering Cholesterol</name>
+        <htmlFile>7.TipsOnLoweringCholesterol</htmlFile>
+    </item>
+
+    <item>
+        <name>Understanding Bad Cholesterol</name>
+        <htmlFile>8.UnderstandingBadCholesterol</htmlFile>
+    </item>
+
+    <item>
+        <name>What Increases and Decreases Good and Bad Cholesterol?</name>
+        <htmlFile>9.WhatIncreasesDecreasesGoodBadCholesterol</htmlFile>
+    </item>
+
+    <item>
+        <name>Healthy Living Habits</name>
+        <htmlFile>https://www.cdc.gov/cholesterol/healthy_living.htm</htmlFile>
+    </item>
+
+    <item>
+        <name>Cholesterol Facts</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Cholesterol</htmlFile>
+    </item>
+
+    <item>
+        <name>Hypercholesterolemia</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Hypercholesterolemia</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+<item>
+        <name>BMI Calculator</name>
+        <htmlFile>BMICalculator</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+                <name>Exercise Calorie Counter</name>
+        <htmlFile>CalorieCounter</htmlFile>
+    </item>
+    <item>
+        <name>Free Weight Loss Magazine</name>
+        <htmlFile>http://epeqe.com/WAs/wlapps1/index.html
+</htmlFile>
+    </item>
+
+
+</items>
+

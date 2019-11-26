@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "747284657845",
+    "firebase_url": "https://creative-writing-35270.firebaseio.com",
+    "project_id": "creative-writing-35270",
+    "storage_bucket": "creative-writing-35270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747284657845:android:06fce7013179d6bb",
+        "android_client_info": {
+          "package_name": "creative.writing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747284657845-31kisfs0ikvjikd0sgo6u3lbv2a2l598.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3Ng8ILNDj7B0kERXGE8432htRmVGcwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

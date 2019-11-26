@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "449769954994",
+    "firebase_url": "https://resume-format-android.firebaseio.com",
+    "project_id": "resume-format-android",
+    "storage_bucket": "resume-format-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449769954994:android:c43d65f939b79139",
+        "android_client_info": {
+          "package_name": "resume.format"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449769954994-3oej0pieliu9vtuqt5ubl9lr298c04sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFsZ5HzL7rDLMCCorsoPVf4d9Y6rPE13U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

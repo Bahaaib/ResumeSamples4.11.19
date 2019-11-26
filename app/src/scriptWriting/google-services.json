@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "95022246165",
+    "firebase_url": "https://script-writing-as.firebaseio.com",
+    "project_id": "script-writing-as",
+    "storage_bucket": "script-writing-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95022246165:android:830d75f6a1e931c0",
+        "android_client_info": {
+          "package_name": "script.writing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95022246165-mc8of4n88utq01vtba6l837gjrp8202a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtSP7J_gKN5qUTgTV-MfU5H3B9hZvnMkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

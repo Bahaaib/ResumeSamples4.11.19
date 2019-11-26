@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>intro</title>
+  </head>
+  <body>
+    <div align="center"><big><big><font face="Helvetica, Arial,
+            sans-serif"><b>Eliminate Wordpress Blog Comment Spam</b></font></big></big><br>
+    </div>
+    <big><big><font face="Helvetica, Arial, sans-serif"><br>
+          One of the most serious problems with any blogging system,
+          including WordPress, is that the comments area is wide open to
+          that scourge of the Internet, spammers. In this case, it's
+          comment spam.<br>
+          <br>
+          Comment spam is created by people seeking to boost their
+          Google rankings by having lots of links pointing to their own
+          websites. This causes a wide variety of problems:<br>
+          <br>
+          • When Google detects content spam, they will often block the
+          site it's coming from because it messes up their ranking
+          system.<br>
+          <br>
+          • It takes up your valuable time and bandwidth to eliminate
+          these posts.<br>
+          <br>
+          • If the onslaught of spam is heavy enough, it may result in a
+          denial-of-service attack, intended or not, which is a
+          situation in which the server tries so hard to post bad
+          information and/or deliver notification emails to you that it
+          denies service to the legitimate requests. In at least one
+          case, a blogger received over two thousand email notifications
+          of comments that needed approval; as he dealt with these, he
+          continued getting more, ultimately crashing his mail server.<br>
+          <br>
+          As you can see, even if you have your comments set to post
+          only upon approval, this can be a serious problem. One
+          solution is the Akismet plugin for WordPress.<br>
+          <br>
+        </font></big></big>
+    <div align="center"><big><big><font face="Helvetica, Arial,
+            sans-serif"><b>Akismet Plugin and Other Plugin Options for
+              WordPress</b></font></big></big><br>
+    </div>
+    <big><big><font face="Helvetica, Arial, sans-serif"><br>
+          Akismet is designed to help you filter out those nasty
+          spammers, and it's not hard to get it installed into your
+          WordPress system. Download the plugin, and upload it to the
+          blog directory on your server in the plugins subdirectory
+          under wp-content. Activate from the WordPress plugins menu. If
+          you have a notice that you need the Akismet API, go to the
+          WordPress website and look or ask for one.<br>
+          <br>
+          Here's the magic: the only instruction in Akismet is "forget
+          that spam was ever a problem." You don't have to do anything
+          else at all – the spam will simply be bounced. You will not
+          receive a notification, nor will you have to go out and delete
+          spam.<br>
+          <br>
+          Another plugin for eliminating spam from bots is the "Did You
+          Pass Math" plugin. This one makes the user perform a simple
+          math problem before submitting a comment. As most humans can
+          handle this and most spambots can't, it's pretty likely that a
+          comment posted through this is a legitimate comment. You
+          should add a note of caution that your comments will be
+          deleted if you answer the math wrong, though; a wise commenter
+          will use an offline composition tool, not post directly to the
+          comments area.<br>
+          <br>
+        </font></big></big>
+    <div align="center"><big><big><font face="Helvetica, Arial,
+            sans-serif"><b>If This Still Doesn't Work</b></font></big></big><br>
+    </div>
+    <big><big><font face="Helvetica, Arial, sans-serif"><br>
+          If you still can't eliminate spammers with these plugins, you
+          can eliminate them by denying them access to your comments
+          area. This does not mean you have to disable your comments
+          section, only that you need to set up a filter.<br>
+          <br>
+          It's not usually as simple as just blocking their IPs. Serious
+          spammers use random IPs, while blocking IPs may get rid of
+          them for a short time, it will ultimately prevent legitimate
+          comments from being posted. Spammers are also notorious for
+          hijacking other people's IP addresses. But as a short-term
+          emergency solution, you can try it. The IP address is included
+          in the information packet for the comment; it's similar to a
+          traceable phone number. Look for clear patterns in your IP
+          numbers.<br>
+          <br>
+          Use the .htaccess file to block unwanted IPs from even seeing
+          your blog. For instance, these lines can be added:<br>
+          <br>
+          order allow,deny<br>
+          deny from 123.123.123.123<br>
+          deny from 456.456.456.*<br>
+          deny from 789.789.*.*<br>
+          allow from all<br>
+          <br>
+          IPs are four-part numbers, such as 192.168.0.1. Typically, if
+          you see a pattern with the first two sections being identical,
+          you can block all IPs of that type by simply listing them as
+          192.168.*.*, as you see above. This screens out all these IP
+          numbers. Blocked IPs will get a 403 error page; customize
+          yours so that your contact details are listed in case you're
+          blocking out a legitimate user. Don't use your regular email;
+          a spammer can harvest that too, for a whole new set of
+          problems. Instead, encode your email so that it's not
+          automatically readable.<br>
+          <br>
+          When you think you have your problems addressed, you can
+          remove the block from your .htaccess file. If it still doesn't
+          work, or if you don't see an IP pattern, it's likely that
+          spambots are hijacking someone else's machine to attack your
+          site. In this case, do not use the IP block.<br>
+          <br>
+          Again, if you don't have an IP pattern of attack, this may not
+          be worth doing. Remember, too, that with IP addresses, the
+          first numbers affect the largest number of computers, like a
+          reverse address: USA, California, Sacramento, X Building, Ste.
+          101, Joe Schmo. An IP follows roughly the same pattern, with
+          the last of the four sections referring to the specific
+          computer it is attached to.<br>
+          <br>
+        </font></big></big>
+    <div align="center"><b><big><big><font face="Helvetica, Arial,
+              sans-serif">Google's Nofollow Attribute</font></big></big></b><br>
+    </div>
+    <big><big><font face="Helvetica, Arial, sans-serif"><br>
+          Of course, if it's a waste of their time to spam you, spammers
+          may just skip you altogether. For this reason, you can use the
+          Google Nofollow attribute for links: . This attribute is
+          embedded automatically by modern versions of WordPress.<br>
+          <br>
+          It does not eliminate links, which is what spammers are
+          working on adding to your site. Instead, it makes those links
+          irrelevant to Google. The end result is that it doesn't hurt
+          your rank in Google, and it doesn't help a spammer to send
+          data to your site. It also marks you, for spambots looking for
+          an easy target, as a waste of time.<br>
+          <br>
+          This is not an immediate fix. But it is a way to make your
+          blog resistant to spammers in the future. If you're already a
+          target, you'll have to work with it slowly, incorporating all
+          these fixes. If you aren't a target, the very least you should
+          do is turn on the nofollow option in your WordPress system;
+          this will deter any hungry spambots. Upgrade your version, or
+          look for one of the plugins that provides this service for
+          you.<br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+        </font></big></big>
+  </body>
+</html>

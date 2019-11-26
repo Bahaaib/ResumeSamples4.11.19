@@ -1,0 +1,75 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>Free Marketing Hints 1</name>
+        <htmlFile>12.FreeMarketingHints</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Free Marketing Hints 2</name>
+        <htmlFile>13.FreeMarketingHints2</htmlFile>
+    </item>
+
+    <item>
+        <name>Low Cost Marketing Strategies to Increase Profits</name>
+        <htmlFile>2.SmallBusinessOwners</htmlFile>
+    </item>
+
+    <item>
+        <name>20 Low Cost Marketing Ideas to Grab More Clients</name>
+        <htmlFile>3.SmallBusinessMarketing</htmlFile>
+    </item>
+
+    <item>
+        <name>7 Small Business Marketing Tips</name>
+        <htmlFile>4.7SmallBusiness</htmlFile>
+    </item>
+
+    <item>
+        <name>Postcard Marketing</name>
+        <htmlFile>5.Postcards</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>You Need A Marketing Plan</name>
+        <htmlFile>6.YouNeedAMarketingPlan</htmlFile>
+    </item>
+
+    <item>
+        <name>Viral Marketing 101</name>
+        <htmlFile>7.ViralMarketing101</htmlFile>
+    </item>
+
+    <item>
+        <name>Promote Your Small Business Without Spending a Fortune</name>
+        <htmlFile>8.PromoteYourSmallBusiness</htmlFile>
+    </item>
+
+    <item>
+        <name>10 Secret And Effective Marketing Strategies</name>
+        <htmlFile>9.10SecretAndEffectiveMarketingStrategies</htmlFile>
+    </item>
+
+    <item>
+        <name>Marketing Ideas and Actions</name>
+        <htmlFile>10.MarketingIdeas</htmlFile>
+    </item>
+
+    <item>
+        <name>Effective Low Cost and Free Marketing Ideas Tactics</name>
+        <htmlFile>11.EffectiveLowCost</htmlFile>
+    </item>
+
+
+
+
+
+
+</items>

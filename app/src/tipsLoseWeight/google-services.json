@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1089367867573",
+    "firebase_url": "https://tips-lose-weight.firebaseio.com",
+    "project_id": "tips-lose-weight",
+    "storage_bucket": "tips-lose-weight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089367867573:android:57306ab61603dd34",
+        "android_client_info": {
+          "package_name": "tips.lose.weight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089367867573-q5ss5u5ajado29pb16m0d43sgttq7s4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSlKuoBy95AzjS4V5dPgLYM_ggdJ6F4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

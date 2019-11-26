@@ -1,0 +1,552 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+
+    signingConfigs {
+        release {
+            storeFile file('keystore/mainkeystore')
+            storePassword "article123"
+            keyAlias "venture5"
+            keyPassword "article123"
+        }
+    }
+
+    productFlavors {
+        cvExamples {
+            resValue "string", "app_name", '"CV Examples"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/8069955821"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/6593222628"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~3914255026"'
+            signingConfig signingConfigs.release
+            applicationId "cv.examples"
+            versionName "19.0"
+            versionCode 19
+        }
+        healthyFoodRecipes {
+            resValue "string", "app_name", '"Healthy Food"'
+            signingConfig signingConfigs.release
+            applicationId "healthy.food.recipes"
+            versionName "8.0"
+            versionCode 8
+        }
+        creativeWriting {
+            resValue "string", "app_name", '"Creative Writing"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/3518802224"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/2042069023"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~5247522223"'
+            signingConfig signingConfigs.release
+            applicationId "creative.writing"
+            versionName "9.0"
+            versionCode 9
+
+        }
+        dashDiet {
+            resValue "string", "app_name", '"Dash Diet"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/2884059828"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/1407326629"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~7251769420"'
+            signingConfig signingConfigs.release
+            applicationId "dash.diet"
+            versionName "7.0"
+            versionCode 7
+        }
+
+        resumeFormat {
+            resValue "string", "app_name", '"Resume Format"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/8460882224"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/8424012220"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~6947279021"'
+            signingConfig signingConfigs.release
+            applicationId "resume.format"
+            versionName "13.0"
+            versionCode 13
+
+        }
+        resumeTemplates {
+            resValue "string", "app_name", '"Resume Templates"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/2972751820"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/1356417826"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~2776261425"'
+            signingConfig signingConfigs.release
+            applicationId "resume.templates"
+            versionName "16.0"
+            versionCode 16
+        }
+
+        howToLoseWeightFast {
+            resValue "string", "app_name", '"How To Lose weight Fast"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/6013631025"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/1583431428"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4972532626"'
+            signingConfig signingConfigs.release
+            applicationId "com.v1_4.B200622148587FCB3C2BED12.com"
+            versionName "21.0"
+            versionCode 21
+        }
+
+        howToWriteAnEssay {
+            resValue "string", "app_name", '"How To Write An Essay"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/6981591824"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/9555839023"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4752206629"'
+            signingConfig signingConfigs.release
+            applicationId "com.v1_4.BD333B28A85D8CA069FC3F5D.com"
+            versionName "12.0"
+            versionCode 12
+        }
+
+        howToLoseWeightQuickly {
+            resValue "string", "app_name", '"How To Lose Weight Quickly"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/1694495026"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/4787562227"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4193803427"'
+            signingConfig signingConfigs.release
+            applicationId "com.v1_4.B48D883F0BB3BB5F1891E24C.com"
+            versionName "16.0"
+            versionCode 16
+        }
+
+        fatBurningFoods {
+            resValue "string", "app_name", '"Fat Burning Foods"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/3086843020"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/1610109828"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~5391335021"'
+            signingConfig signingConfigs.release
+            applicationId "com.v1_4.B3730F78E64B1E6E479864C7.com"
+            versionName "15.0"
+            versionCode 15
+        }
+
+        foodsThatBurnFat {
+            resValue "string", "app_name", '"Foods That Burn Fat"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/7567415027"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/3137215423"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~9681933829"'
+            signingConfig signingConfigs.release
+            applicationId "foodsthatburn.fat"
+            versionName "16.0"
+            versionCode 16
+        }
+
+        golfSwingTips {
+            resValue "string", "app_name", '"Golf Swing Tips"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/2084127827"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/9607394627"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~8205200628"'
+            signingConfig signingConfigs.release
+            applicationId "com.v1_4.BF3F211299454988C4EF1A5C.com"
+            versionName "14.0"
+            versionCode 14
+        }
+
+
+        teethWhitening {
+            resValue "string", "app_name", '"Teeth Whitening"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/3628172257"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/6501747602"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~9182406220"'
+            signingConfig signingConfigs.release
+            applicationId "com.v1_4.B3CD4E28FDA4E17FF8AD05C9.com"
+            versionName "3.0"
+            versionCode 13
+        }
+
+
+        weightLossRecipes {
+            resValue "string", "app_name", '"Weight Loss Recipes"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/9592218225"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/2208552224"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~6449265823"'
+            signingConfig signingConfigs.release
+            applicationId "com.v1_4.B84EC995C5A00AD647DAB197.com"
+            versionName "13.0"
+            versionCode 13
+        }
+
+
+        resumeSamples {
+            resValue "string", "app_name", '"Resume Samples"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/9304513423"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/1920847422"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4191642226"'
+            signingConfig signingConfigs.release
+            applicationId "resume.samples"
+            versionName "12.0"
+            versionCode 12
+        }
+
+
+        scriptWriting {
+            resValue "string", "app_name", '"Script Writing"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/5954094228"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/4477361024"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~3368772228"'
+            signingConfig signingConfigs.release
+            applicationId "script.writing"
+            versionName "7.0"
+            versionCode 7
+        }
+
+        bestWayToLoseWeight {
+            resValue "string", "app_name", '"Best Way To Lose Weight"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/9354239029"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/1970573021"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~2158667024"'
+            signingConfig signingConfigs.release
+            applicationId "best.waytolose.weight"
+            versionName "13.0"
+            versionCode 13
+        }
+
+
+        fastestWayToLoseWeight {
+            resValue "string", "app_name", '"Fastest Way To Lose Weight"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/2491950229"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/1015217026"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~9779760229"'
+            signingConfig signingConfigs.release
+            applicationId "fastest.waytolose.weight"
+            versionName "12.0"
+            versionCode 12
+        }
+
+
+        coverLetter {
+            resValue "string", "app_name", '"Cover Letter"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/5805343428"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/4328610228"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~9042805422"'
+            signingConfig signingConfigs.release
+            applicationId "cover.letter.com"
+            versionName "17.0"
+            versionCode 17
+        }
+
+
+        howToWriteaCV {
+            resValue "string", "app_name", '"How To Write a CV"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/6438335027"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/3484868623"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~2577469421"'
+            signingConfig signingConfigs.release
+            applicationId "how.towritea.cv"
+            versionName "20.0"
+            versionCode 20
+        }
+
+
+        howtoLoseWeightinaWeek {
+            resValue "string", "app_name", '"How to Lose Weight in a Week"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/5681455427"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/3007190620"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~5290685023"'
+            signingConfig signingConfigs.release
+            applicationId "how.to.loseweightinaweek"
+            versionName "10.0"
+            versionCode 10
+        }
+
+        howToWriteaBook {
+            resValue "string", "app_name", '"How To Write a Book"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/2331036220"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/8377569824"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~7470801829"'
+            signingConfig signingConfigs.release
+            applicationId "howto.write.a.book"
+            versionName "7.0"
+            versionCode 7
+        }
+
+        howToWriteaReport {
+            resValue "string", "app_name", '"How To Write a Report"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/3520064625"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/2043331428"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~5585599428"'
+            signingConfig signingConfigs.release
+            applicationId "how.to.write.a.report"
+            versionName "6.0"
+            versionCode 6
+        }
+
+
+        howToWriteaThesis {
+            resValue "string", "app_name", '"How To Write a Thesis"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/8052839021"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/5099372622"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~8439504224"'
+            signingConfig signingConfigs.release
+            applicationId "how.to.write.a.thesis"
+            versionName "6.0"
+            versionCode 6
+        }
+
+        howToWriteANovel {
+            resValue "string", "app_name", '"How To Write A Novel"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/3644489024"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/9691022626"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~9608513028"'
+            signingConfig signingConfigs.release
+            applicationId "how.to.write.a.novel"
+            versionName "6.0"
+            versionCode 6
+        }
+        howToBecomeAWriter {
+            resValue "string", "app_name", '"How To Become A Writer"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/6273224627"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/4796491429"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~9968439820"'
+            signingConfig signingConfigs.release
+            applicationId "how.to.become.a.writer"
+            versionName "7.0"
+            versionCode 7
+        }
+
+        howToLowerCholesterol {
+            resValue "string", "app_name", '"How To Lower Cholesterol"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/4759465428"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/3282732220"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~1100736227"'
+            signingConfig signingConfigs.release
+            applicationId "howto.lower.cholesterol"
+            versionName "11.0"
+            versionCode 11
+        }
+
+        weddingPlannerBook {
+            resValue "string", "app_name", '"Wedding Planner Book"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/7146025428"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/5669292220"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4192559022"'
+            signingConfig signingConfigs.release
+            applicationId "wedding.planner.book"
+            versionName "3.0"
+            versionCode 3
+        }
+
+        unclaimedFunds {
+            resValue "string", "app_name", '"Unclaimed Funds"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/5564816941"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/7471605618"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~1107886551"'
+            signingConfig signingConfigs.release
+            applicationId "unclaimed.funds"
+            versionName "8.0"
+            versionCode 8
+        }
+
+
+        tipsLoseWeight {
+            resValue "string", "app_name", '"Tips Lose Weight"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/3214204946"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/6251431827"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4025735497"'
+            signingConfig signingConfigs.release
+            applicationId "tips.lose.weight"
+            versionName "1.0"
+            versionCode 1
+        }
+
+        scholarshipsForWomen {
+            resValue "string", "app_name", '"Scholarships For Women"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/7744502546"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/9716059761"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4331515929"'
+            signingConfig signingConfigs.release
+            applicationId "scholarships.for.women"
+            versionName "1.0"
+            versionCode 1
+        }
+
+        texasUnclaimedProperty
+                {
+                    resValue "string", "app_name", '"Texas Unclaimed Property"'
+                    resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/1478153691"'
+                    resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/8982729880"'
+                    resValue "string", "app_id", '"ca-app-pub-8052068685884381~4571220892 "'
+                    signingConfig signingConfigs.release
+                    applicationId "texas.unclaimed.property"
+                    versionName "1.0"
+                    versionCode 1
+                }
+
+        howToMakeBeer
+                {
+                    resValue "string", "app_name", '"How To Make Beer"'
+                    resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/5223914865"'
+                    resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/4535194310"'
+                    resValue "string", "app_id", '"ca-app-pub-8052068685884381~9148037378"'
+                    signingConfig signingConfigs.release
+                    applicationId "howto.make.beer"
+                    versionName "1.0"
+                    versionCode 1
+                }
+
+
+        cureAHangover {
+            resValue "string", "app_name", '"Cure a Hangover"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/4201782709"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/1300163485"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~7523269980"'
+            signingConfig signingConfigs.release
+            applicationId "cure.a.hangover"
+            versionName "1.0"
+            versionCode 1
+        }
+
+        howToRemoveDandruff {
+            resValue "string", "app_name", '"How to Remove Dandruff"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/1374634348"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/2101392652"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~7054815367"'
+            signingConfig signingConfigs.release
+            applicationId "how.to.remove.dandruff"
+            versionName "1.0"
+            versionCode 1
+        }
+
+        unclaimedPropertyCalifornia {
+            resValue "string", "app_name", '"Unclaimed Property California"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/2782035035"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/3356394888"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~2618383500"'
+            signingConfig signingConfigs.release
+            applicationId "unclaimed.property.california"
+            versionName "1.0"
+            versionCode 1
+        }
+
+
+        nysUnclaimedMoney {
+            resValue "string", "app_name", '"NYS Unclaimed Money"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/6629866425"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/7835136881"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~2335398194"'
+            signingConfig signingConfigs.release
+            applicationId "nys.unclaimed.money"
+            versionName "7.0"
+            versionCode 7
+        }
+
+
+        howToWriteaBlog {
+            resValue "string", "app_name", '"How to Write a Blog"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/7193164128"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/2599312994"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4487109735"'
+            signingConfig signingConfigs.release
+            applicationId "howto.write.ablog"
+            versionName "1.0"
+            versionCode 1
+        }
+
+        howToWriteanArticle {
+            resValue "string", "app_name", '"How To Write an Article"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/6742922111"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/2436296859"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~5693015585"'
+            signingConfig signingConfigs.release
+            applicationId "howto.write.an.article"
+            versionName "4.0"
+            versionCode 4
+        }
+
+
+        CVExamples2019 {
+            resValue "string", "app_name", '"CV Examples 2019"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/9742832734"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/3149504228"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4440628498"'
+            signingConfig signingConfigs.release
+            applicationId "cv.examples.resumes"
+            versionName "3.0"
+            versionCode 3
+        }
+
+
+        jobCoverLetter {
+            resValue "string", "app_name", '"Job Cover Letter"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/5927512391"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/8265901125"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~3440115700"'
+            signingConfig signingConfigs.release
+            applicationId "job.cover.letter"
+            versionName "5.0"
+            versionCode 5
+        }
+
+        fatBurningExercises {
+            resValue "string", "app_name", '"Fat Burning Exercises"'
+            resValue "string", "banner_ad_unit_id", '"none"'
+            resValue "string", "banner_interstitial_id", '"none"'
+            resValue "string", "app_id", '"none"'
+            signingConfig signingConfigs.release
+            applicationId "fat.burning.exercises"
+            versionName "2.0"
+            versionCode 2
+        }
+
+        howToWriteaJournal {
+            resValue "string", "app_name", '"How To Write a Journal"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/7003147692"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/1694980693"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~9601390871"'
+            signingConfig signingConfigs.release
+            applicationId "howto.writea.journal"
+            versionName "2.0"
+            versionCode 2
+        }
+
+
+        marketingAGuerillaGuideIdeas {
+            resValue "string", "app_name", '"Marketing - A Guerilla Guide & Ideas"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/8255464314"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/3741504234"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~4479870831"'
+            signingConfig signingConfigs.release
+            applicationId "guerilla.marketing"
+            versionName "3.0"
+            versionCode 3
+        }
+
+        wealthBuilding {
+            resValue "string", "app_name", '"Wealth Building"'
+            resValue "string", "banner_ad_unit_id", '"ca-app-pub-8052068685884381/8527604048"'
+            resValue "string", "banner_interstitial_id", '"ca-app-pub-8052068685884381/2185556974"'
+            resValue "string", "app_id", '"ca-app-pub-8052068685884381~5737789171"'
+            signingConfig signingConfigs.release
+            applicationId "wealth.building"
+            versionName "1.0"
+            versionCode 1
+        }
+
+
+    }
+    defaultConfig {
+        applicationId "com.resumesamples.resumesamples"
+        minSdkVersion 15
+        targetSdkVersion 28
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets { second { assets.srcDirs = ['src/second/assets', 'src/second/assets/'] } }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support.constraint:constraint-layout:1.1.3'
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile 'com.android.support:recyclerview-v7:24.0.+'
+    compile 'com.android.support:cardview-v7:24.0.+'
+    compile 'com.android.support:design:24.0.0'
+    compile 'com.google.firebase:firebase-ads:10.0.0'
+    compile 'com.github.lukedeighton:wheelview:0.4.2'
+}
+apply plugin: 'com.google.gms.google-services'

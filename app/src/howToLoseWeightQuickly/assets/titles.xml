@@ -1,0 +1,91 @@
+<items>
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+<item>
+    <name>5 Best Diets to Lose Weight Fast</name>
+    <htmlFile>1.5BestDiets</htmlFile>
+    </item>
+<item>
+<name>Ways to Burn Fat and Lose Weight</name>
+<htmlFile>2.6WaystoBurn</htmlFile>
+</item>
+
+    <item>
+<name>Ten FAQs About Weight Loss</name>
+<htmlFile>3.TenMostFrequently</htmlFile>
+</item>
+    <item>
+<name>Quick Weight Loss New Meaning</name>
+<htmlFile>4.WebsBestWeightLoss</htmlFile>
+</item>
+    <item>
+<name>Lose Weight Easily And Quickly</name>
+<htmlFile>5.HowToLoseWeightEasily</htmlFile>
+       <interstitial>true</interstitial>
+</item>
+    <item>
+<name>Natural Weight Loss</name>
+<htmlFile>6.NaturalWeightLoss</htmlFile>
+</item>
+    <item>
+<name>Lose Weight Quickly And Safely</name>
+<htmlFile>7.HowToLoseWeightQuicklyAndSafelyt</htmlFile>
+</item>
+    <item>
+<name>Fast Weight Loss Tips</name>
+<htmlFile>8.FastWeightLossTipsForFindingABuddy</htmlFile>
+</item>
+
+
+    <item>
+<name>Lose Weight Quickly By Calorie Counting
+</name>
+<htmlFile>9.CalorieCounting</htmlFile>
+</item>
+    <item>
+<name>Avoid Fad Diets</name>
+<htmlFile>10.AvoidFadDiets</htmlFile>
+        <interstitial>true</interstitial>
+</item>
+    <item>
+<name>Get Yourself Fit!</name>
+<htmlFile>11.GetYourselfFit</htmlFile>
+</item>
+    <item>
+<name>Safely Lose Weight</name>
+<htmlFile>12.SafelyLoseWeight</htmlFile>
+</item>
+    <item>
+<name>You Can Successfully Lose Weight</name>
+<htmlFile>13YouCanSuccessfully</htmlFile>
+</item>
+    <item>
+<name>Be Fitter Than You Thought Possible</name>
+<htmlFile>14.BeFitter</htmlFile>
+</item>
+    <item>
+<name>Professional Fitness Methods</name>
+<htmlFile>15.Professional</htmlFile>
+        <interstitial>true</interstitial>
+</item>
+    <item>
+        <name>Free Weight Loss Magazine</name>
+        <htmlFile>http://epeqe.com/WAs/wlapps1/index.html</htmlFile>
+    </item>
+
+
+
+    <item>
+<name>BMI Calculator</name>
+<htmlFile>16.BMICalculator</htmlFile>
+</item>
+    <item>
+<name>Exercise Calorie Calculator</name>
+<htmlFile>17.CalorieCounter</htmlFile>
+       <interstitial>true</interstitial>
+</item>
+
+
+    </items>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "148460365500",
+    "firebase_url": "https://how-to-become-a-writer-as.firebaseio.com",
+    "project_id": "how-to-become-a-writer-as",
+    "storage_bucket": "how-to-become-a-writer-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148460365500:android:ae73103cafb54f54",
+        "android_client_info": {
+          "package_name": "how.to.become.a.writer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148460365500-0jqm6925neki6es57ge1q85jkdghgcop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJN_nAQ9udJ2hjArANBI3ab9EIVJDpilE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>BMICalculator</title>
+    <script language="JavaScript">
+
+
+<!-- Begin
+function mod(div,base) {
+return Math.round(div - (Math.floor(div/base)*base));
+}
+function calcBmi() {
+var w = document.bmi.weight.value * 1;
+var HeightFeetInt = document.bmi.htf.value * 1;
+var HeightInchesInt = document.bmi.hti.value * 1;
+HeightFeetConvert = HeightFeetInt * 12;
+h = HeightFeetConvert + HeightInchesInt;
+displaybmi = (Math.round((w * 703) / (h * h)));
+var rvalue = true;
+if ( (w <= 35) || (w >= 500)  || (h <= 48) || (h >= 120) ) {
+alert ("Invalid data.  Please check and re-enter!");
+rvalue = false;
+}
+if (rvalue) {
+if (HeightInchesInt > 11) {
+reminderinches = mod(HeightInchesInt,12);
+document.bmi.hti.value = reminderinches;
+document.bmi.htf.value = HeightFeetInt +
+((HeightInchesInt - reminderinches)/12);
+document.bmi.answer.value = displaybmi;
+}
+if (displaybmi <19)
+document.bmi.comment.value = "Underweight";
+if (displaybmi >=19 && displaybmi <=25)
+document.bmi.comment.value = "Desirable";
+if (displaybmi >=26 && displaybmi <=29)
+document.bmi.comment.value = "prone to health risks";
+if (displaybmi >=30 && displaybmi <=40)
+document.bmi.comment.value = "Obese";
+if (displaybmi >40)
+document.bmi.comment.value = "Extremely obese";
+document.bmi.answer.value = displaybmi; }
+return rvalue;
+}
+//  End -->
+
+</script>
+  </head>
+  <body>
+    <big><big><font face="Helvetica, Arial, sans-serif"> </font></big></big>
+    <div align="center"><big><big><font face="Helvetica, Arial,
+            sans-serif"><big><b> Body Mass Index Calculator</b></big><br>
+          </font> </big></big></div>
+    <big><big><font face="Helvetica, Arial, sans-serif"> <br>
+        </font></big></big>
+    <form name="bmi"><big><big> </big></big>
+      <center>
+        <table align="center" border="0" width="85%">
+          <big><big> </big></big><tbody>
+            <big><big> </big></big><tr>
+              <big><big> </big></big><td align="center"
+                bgcolor="#ffffcc"><big><big><font face="Helvetica,
+                      Arial, sans-serif"><b><br>
+                        <br>
+                        Your Weight:</b> <input name="weight" size="3"
+                        maxlength="3" type="text"> lbs.<br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big></td>
+              <big><big> </big></big></tr>
+            <big><big> </big></big><tr>
+              <big><big> </big></big><td align="center"
+                bgcolor="#ffffcc"><big><big><font face="Helvetica,
+                      Arial, sans-serif"><b>Your Height:</b> <input
+                        name="htf" size="1" maxlength="1" type="text">
+                      Ft. <input name="hti" size="2" maxlength="2"
+                        type="text"> In.<br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big></td>
+              <big><big> </big></big></tr>
+            <big><big> </big></big><tr>
+              <big><big> </big></big><td align="center"
+                bgcolor="#ffffcc"><b><big><big> </big></big></b><b><big><big><font
+                        face="Helvetica, Arial, sans-serif"><input
+                          value="Calculate BMI" onclick="calcBmi()"
+                          type="button"><br>
+                      </font></big></big></b><b><big><big> </big></big></b><b><big><big><font
+                        face="Helvetica, Arial, sans-serif"><br>
+                      </font></big></big></b><b><big><big> </big></big></b></td>
+              <big><big> </big></big></tr>
+            <big><big> </big></big><tr>
+              <big><big> </big></big><td align="center"
+                bgcolor="#ffffcc" valign="middle"><big><big><font
+                      face="Helvetica, Arial, sans-serif"><b><br>
+                        <br>
+                        Your Body Mass Index</b> <input name="answer"
+                        size="3" type="text"><br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big></td>
+              <big><big> </big></big></tr>
+            <big><big> </big></big><tr>
+              <big><big> </big></big><td align="center"
+                bgcolor="#ffffcc" valign="middle"><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                      Your Result :<br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><input
+                        name="comment" size="25" type="text"><br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big><big><big><font
+                      face="Helvetica, Arial, sans-serif"><br>
+                    </font></big></big><big><big> </big></big></td>
+              <big><big> </big></big></tr>
+            <big><big> </big></big>
+          </tbody><big><big> </big></big>
+        </table>
+        <big><big> </big></big></center>
+      <big><big> </big></big></form>
+    <big><big><font face="Helvetica, Arial, sans-serif"> <br>
+          <br>
+        </font></big></big>
+    <div align="center"><big><big><font face="Helvetica, Arial,
+            sans-serif">Result based on The Panel on Energy, Obesity,
+            and Body Weight Standards published by American Journal of
+            Clinical Nutrition.<br>
+          </font> <font face="Helvetica, Arial, sans-serif"><br>
+          </font> </big></big></div>
+    <big><big><font face="Helvetica, Arial, sans-serif"> </font></big></big>
+    <div align="center"><big><big><font face="Helvetica, Arial,
+            sans-serif">Results are approximate only. Please check with
+            a suitably qualifed medical professional.<br>
+          </font> </big></big></div>
+    <big><big><font face="Helvetica, Arial, sans-serif"> </font></big></big>
+  </body>
+</html>

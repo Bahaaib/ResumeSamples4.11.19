@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "143156796469",
+    "firebase_url": "https://how-to-write-a-blog.firebaseio.com",
+    "project_id": "how-to-write-a-blog",
+    "storage_bucket": "how-to-write-a-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143156796469:android:f8a32c43b2fb65ff",
+        "android_client_info": {
+          "package_name": "howto.write.ablog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143156796469-ck9l12q0pe97d776b3gah2p2uf6762hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjQ_4m9iZ6q5sUFuJfkhah5_SOTih69qw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

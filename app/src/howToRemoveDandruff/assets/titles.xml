@@ -1,0 +1,74 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisAppDISCLAIMER</htmlFile>
+    </item>
+
+    <item>
+        <name>What Causes Dandruff</name>
+        <htmlFile>2.WhatCausesDandruff</htmlFile>
+    </item>
+
+    <item>
+        <name>Natural Remedies for Hair Loss</name>
+        <htmlFile>3.NaturalRemediesforHairLoss</htmlFile>
+    </item>
+
+    <item>
+        <name>Itching To Know About Dandruff</name>
+        <htmlFile>4.ItchingToKnowAboutDandruff</htmlFile>
+    </item>
+
+    <item>
+        <name>Dealing with Dandruff</name>
+        <htmlFile>5.DealingwithDandruff</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Is it Really Dandruff</name>
+        <htmlFile>6.IsitReallyDandruff</htmlFile>
+    </item>
+
+    <item>
+        <name>Causes of Scalp Eczema</name>
+        <htmlFile>7.CausesofScalpEczema</htmlFile>
+    </item>
+
+    <item>
+        <name>Healthy Hair Care Tips</name>
+        <htmlFile>8.HealthyHairCareTips</htmlFile>
+    </item>
+
+    <item>
+        <name>10 Do’s Of Great Hair Care</name>
+        <htmlFile>9.10DoOfGreatHairCare</htmlFile>
+    </item>
+
+    <item>
+        <name>Eliminating Scalp Eczema</name>
+        <htmlFile>10.EliminatingScalpEczema</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+
+    <item>
+        <name>Dandruff Medical Detail</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Dandruff</htmlFile>
+    </item>
+
+    <item>
+        <name>What's the Best Treatment for Dandruff?</name>
+        <htmlFile>13.WhatstheBestTreatment</htmlFile>
+    </item>
+
+        <item>
+        <name>Free Handy Calculator</name>
+        <htmlFile>14.BasicCalculator</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+
+
+</items>

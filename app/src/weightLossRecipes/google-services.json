@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "369828658728",
+    "firebase_url": "https://weight-loss-recipes-as.firebaseio.com",
+    "project_id": "weight-loss-recipes-as",
+    "storage_bucket": "weight-loss-recipes-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369828658728:android:443c49f3ec68c2e3",
+        "android_client_info": {
+          "package_name": "com.v1_4.B84EC995C5A00AD647DAB197.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369828658728-3oemvg84og5igff2d4ithjgr9g99u14r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqeF3wGE1CQiDJJUuf14AW3OCIURRZ398"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

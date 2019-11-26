@@ -1,0 +1,76 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Write a Thesis</name>
+        <htmlFile>1.HowtoWriteaThesis</htmlFile>
+    </item>
+
+
+    <item>
+        <name>Research Paper Topic Ideas</name>
+        <htmlFile>6.ResearchPaperTopicIdeas</htmlFile>
+    </item>
+
+    <item>
+        <name>Thesis and Anxiety:  Surviving the Last Challenge before Graduation</name>
+        <htmlFile>7.ThesisandAnxiety</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Write a Thesis Or Dissertation</name>
+        <htmlFile>9.HowtoWriteaThesisOrDissertation</htmlFile>
+    </item>
+
+    <item>
+        <name>The Dreaded Research Paper</name>
+        <htmlFile>8.TheDreadedResearchPaper</htmlFile>
+    </item>
+
+    <item>
+        <name>Thesis</name>
+        <htmlFile>https://en.m.wikipedia.org/wiki/Thesis</htmlFile>
+<interstitial>true</interstitial>   </item>
+
+    <item>
+        <name>How to write an A+ introduction And Conclusion</name>
+        <htmlFile>http://utminers.utep.edu/omwilliamson/engl1311/intro_conclu.htm</htmlFile>
+    </item>
+
+    <item>
+        <name>Getting Creative With Your Thesis Or Dissertation</name>
+        <htmlFile>https://helenkara.com/2016/07/13/getting-creative-with-your-thesis-or-dissertation/</htmlFile>
+<interstitial>true</interstitial>     </item>
+
+    <item>
+        <name>5 Reasons to Start Writing a Research Paper in Summer</name>
+        <htmlFile>2.StartWritingaResearchPaperinSummer</htmlFile>
+    </item>
+
+    <item>
+        <name>Choose Great Research Topics</name>
+        <htmlFile>3.ChooseGreatResearchTopics</htmlFile>
+   </item>
+
+    <item>
+        <name>How To Write an Essay</name>
+        <htmlFile>4.HowToWriteanEssay</htmlFile>
+    </item>
+
+    <item>
+        <name>Writing Business School Essays</name>
+        <htmlFile>5.WritingBusinessSchoolEssays</htmlFile>
+<interstitial>true</interstitial>     </item>
+
+
+
+
+
+
+
+</items>
+

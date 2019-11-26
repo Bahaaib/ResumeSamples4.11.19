@@ -1,0 +1,84 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>How To Write a Journal</name>
+        <htmlFile>2.HowToWriteaJournal</htmlFile>
+    </item>
+
+    <item>
+        <name>Keeping a Journal</name>
+        <htmlFile>3.KeepingaJournal</htmlFile>
+    </item>
+
+    <item>
+        <name>Beat the Block with a Journal</name>
+        <htmlFile>4.BeattheBlock</htmlFile>
+    </item>
+
+    <item>
+        <name>Awesome Experience Journal Writing</name>
+        <htmlFile>5.TheAwesomeExperience</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Weight Loss Food Journal</name>
+        <htmlFile>6.WeightLossFoodJournal</htmlFile>
+    </item>
+
+    <item>
+        <name>Journaling Demystified</name>
+        <htmlFile>7.JournalingDemystified</htmlFile>
+    </item>
+
+    <item>
+        <name>Journaling: An Introduction</name>
+        <htmlFile>8.JournalingAnIntroduction</htmlFile>
+    </item>
+
+    <item>
+        <name>Stress-Free Scrapbook Journaling</name>
+        <htmlFile>9.StressFreeScrapbookJournalingIdeas</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Write in a Journal or Diary</name>
+        <htmlFile>10.HowtoWriteinaJournalOrDiary</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+    <item>
+        <name>Journaling Our Thoughts, Feelings and Faith</name>
+        <htmlFile>11.JournalingOurThoughts</htmlFile>
+    </item>
+
+    <item>
+        <name>Get Past Journal Writers Block</name>
+        <htmlFile>12.WritersBlock</htmlFile>
+    </item>
+
+    <item>
+        <name>Overcome Journal Writers Block</name>
+        <htmlFile>13.OvercomeJournalWritersBlock</htmlFile>
+    </item>
+
+    <item>
+        <name>Enhance Your Creative Writing Abilities</name>
+        <htmlFile>14.EnhanceYourCreativeWritingAbilities</htmlFile>
+    </item>
+
+    <item>
+        <name>Free Ebook - Blogging Cash Course</name>
+        <htmlFile>15.BloggingCashCourse</htmlFile>
+        <interstitial>true</interstitial>
+    </item>
+
+
+</items>
+
+

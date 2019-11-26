@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=windows-1252">
+    <meta name="keywords" content="word game">
+    <meta name="description" content="Word Mix Up Game">
+  </head>
+  <body>
+    <titlefree game="">
+      <script language="JavaScript" type="text/javascript">
+<!--
+var word=new Array("MOTHER","FLAG","MINUTE","ELBOW","VOYAGE","MEAN","ROUTE","WEALTHY","HOVER","FRAME","SECOND-HAND","TASTE","STONE","TROUBLE","MORNING","PUNISH","ABASHED","POCKET","MADDENING","ANNOUNCE","LANGUAGE","BITE","MONEY","PLACE","MOUNTAIN","GRUESOME","CROWDED","ABSURD","THANK","SPADE","REWARD","WAKEFUL","SCIENTIFIC","EQUAL","TREATMENT","LEVEL","PINCH","TABLE","PEDAL","TUMBLE","SERVANT","DECORATE","TICK","SLEEPY","EARN","SENSE","GIANT","DEADPAN","ACT","CONCENTRATE","STAIN","BEAM","SPOTLESS","SLIP","RAGGED","DESCRIBE","AIRPORT","GIRAFFE","WHISPER","PALTRY","SUCCINCT","GROTESQUE","PAN","QUACK","PUMP","DISGUSTED","JOG","ABSORBED","EMBARRASSED","WASTE","NAME","CONTAIN","OFFBEAT","DRY","IMPORTANT","LOVELY","PHOBIC","HEAL","CALCULATOR","USED","DETECT","DRACONIAN","FOREGOING","RETURN","DROWN","CRY","LACKING","SHADE","CROWD","SHAKE","SPRING","SHEEP","SOFA","DARE","WILLING","ANXIOUS","SIMPLE","THIRSTY","SHOP","JUICY","LIKE","SUPREME","SOAP","WHIMSICAL","TWIST","CAVE","TONGUE","INSTRUMENT","PLAY","STRIPED","FACT","BEE","THRONE","IGNORANT","SKIN","RABBIT","LAUNCH","NUMBER","MISS","FESTIVE","CREATURE","TRUCULENT","WACKY","CHESS","WEARY","SWANKY","GUTTURAL","EXCUSE","ABLAZE","ESCAPE","CROOKED","NOXIOUS","NUT","WHOLESALE","OVERRATED","TRACE","COACH","ADAPTABLE","LIE","GAUDY","BRIEF","WOUND","MALE","CHERRY","CLEAR","REPLACE","TROUBLED","UNEQUAL","SPIFFY","SQUEEZE","MAMMOTH","BASKETBALL","PALE","PSYCHOTIC","CRATE","SOCK","TICKET","CHERRIES","CARING","EXCELLENT","BUSTLING","EIGHT","ETHEREAL","WEALTH","WOMEN","DAD","COUGH","FEAR","ABUNDANT","FANTASTIC","TEETH","BOAST","TERRITORY","UNKNOWN","PLAN","STEW","ROUND","STEER","ROSE","KISS","TRUCKS","INVITE","TOUCH","PLANT","LIBRARY","FENCE","BEG","ONEROUS","THOUGHT","SUIT","COPPER","WOOZY","DAMAGE");
+var letter=new Array();
+var rand;
+var actual;
+window.onload=main;
+function main()
+{
+getRand();
+scrambleWord();
+creatWord();
+}
+function scrambleWord()
+{
+actual=word[rand];
+Temp=word[rand].length;
+for(var HUCKO=0;HUCKO<Temp+2;HUCKO++)// - Richard Hucko's JavaScript Effects -> www.DynamicScripts.tk
+{
+RHUCKO1=HUCKO-1;
+letter[HUCKO]=word[rand].substring(RHUCKO1,RHUCKO1-1)
+}
+letter.sort();
+word[rand]="";
+for(var HUCKO=0;HUCKO<Temp+2;HUCKO++)
+word[rand]+=letter[HUCKO];
+}
+function getRand()
+{
+rand=Math.floor(Math.random()*word.length);
+}
+function creatWord()
+{
+for(var x=0;x<word[rand].length+2;x++)
+{
+RHUCKO1=x-1;
+a=document.createElement('a');
+a.id="aid"+x;
+a.className="scramble";
+a.innerHTML=word[rand].substring(RHUCKO1,RHUCKO1-1);
+a.href="javascript:append('"+x+"');";
+document.getElementById('board').appendChild(a);
+}
+}
+function creatWord2(x)
+{
+RHUCKO1=x-1;
+a=document.createElement('a');
+a.id="aid2"+x;
+a.className="scramble";
+a.innerHTML=word[rand].substring(RHUCKO1,RHUCKO1-1);
+a.href="javascript:retract('"+x+"');";
+document.getElementById('assemble').appendChild(a);
+}
+function append(RHUCKO1)
+{
+document.getElementById('aid'+RHUCKO1).style.visibility="hidden";
+//document.getElementById('assemble').innerHTML+=document.getElementById('aid'+RHUCKO1).innerHTML;
+creatWord2(RHUCKO1);
+}
+function retract(RHUCKO1)
+{
+document.getElementById('aid'+RHUCKO1).style.visibility="visible";
+elem=document.getElementById('aid2'+RHUCKO1);
+document.getElementById('assemble').removeChild(elem);
+}
+function showWord()
+{
+document.getElementById('theWord').innerHTML=actual;
+}
+//-->
+</script>
+      <style type="text/css">
+<!--
+body {
+text-align:center;
+}
+a.scramble {
+color:black;
+font-weight:bold;
+font-size 80;
+position:relative;
+}
+span#assemble {
+font-weight:bold;
+font-size:80;
+position:relative;
+}
+span#theWord {
+color:white;
+background-color:black;
+font-weight:bold;
+font-size:80;
+position:relative;
+border:2 inset gray;
+}
+a:hover {
+background-color:black;
+color:white;
+}
+-->
+</style></titlefree>
+    <title></title>
+    <big><big><span style="font-weight: bold; color: rgb(102, 102,
+          204);">Free Word Scrambler Game</span><br style="font-weight:
+          bold; color: rgb(102, 102, 204);">
+        <span style="font-weight: bold; color: rgb(102, 102, 204);">Can
+          You Guess The Word?</span><br>
+        <br>
+        <big><big><big><span id="board"></span></big></big></big><br>
+        <br>
+        <big><big><big><span id="assemble"></span></big></big></big><br>
+        <br>
+        <br>
+        <big><big><big><span id="theWord"></span></big></big></big><br>
+      </big></big>
+    <form> <big><big><br>
+          <input value="Reveal Word" onclick="showWord();" type="button"><b
+            style="visibility: hidden;">__</b> <input value="New Word"
+            onclick="javascript:history.go(0);" type="button"></big></big></form>
+  </body>
+</html>

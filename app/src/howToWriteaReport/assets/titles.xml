@@ -1,0 +1,55 @@
+<items>
+
+    <item>
+        <name>How To Use This App</name>
+        <htmlFile>1.HowToUseThisApp</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Write a Business Report</name>
+        <htmlFile>1.HowtoWriteaBusiness</htmlFile>
+    </item>
+
+    <item>
+        <name>How to Write Business Letters</name>
+        <htmlFile>2.HowtoWriteBusinessLetters</htmlFile>
+    </item>
+
+    <item>
+        <name>Report Writing </name>
+        <htmlFile>3.ReportWriting</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+    <item>
+        <name>How to Format a Business Report</name>
+        <htmlFile>4.FormatABusinenesReport</htmlFile>
+    </item>
+
+    <item>
+        <name>Write a Business Proposal That Wins</name>
+        <htmlFile>5.AWinningBusiness</htmlFile>
+    </item>
+
+    <item>
+        <name>Write an Instruction Manual or Handbook</name>
+        <htmlFile>6.HowtoWriteanInstructionManual</htmlFile>
+    </item>
+
+    <item>
+        <name>Report-Writing: How to Do It Successfully</name>
+<interstitial>true</interstitial><htmlFile>7.ReportWriting</htmlFile>
+
+    </item>
+
+    <item>
+        <name>Report Design</name>
+        <htmlFile>https://www.prismnet.com/~hcexres/textbook/report_design.html</htmlFile>
+    </item>
+
+    <item>
+        <name>Recommendation and Feasibility Reports</name>
+        <htmlFile>https://www.prismnet.com/~hcexres/textbook/feas.html</htmlFile>
+<interstitial>true</interstitial>    </item>
+
+
+</items>

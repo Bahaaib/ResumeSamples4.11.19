@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "783162476835",
+    "firebase_url": "https://resume-samples-as.firebaseio.com",
+    "project_id": "resume-samples-as",
+    "storage_bucket": "resume-samples-as.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783162476835:android:20f511f3086ebb67",
+        "android_client_info": {
+          "package_name": "resume.samples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783162476835-aod6nif2fpj85ak3k2ctv7p59c9obdh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC43PdBns2SZN9AfhDC4FFiERlq3Cm9fd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
